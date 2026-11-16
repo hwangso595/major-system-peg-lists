@@ -1,0 +1,5506 @@
+{
+ "major-00-99": [
+  {
+   "number": "00",
+   "peg": "sauce",
+   "hook": "two soft hisses become a poured sauce."
+  },
+  {
+   "number": "01",
+   "peg": "tea",
+   "hook": "one stroke of the pen, one cup of tea."
+  },
+  {
+   "number": "02",
+   "peg": "Noah",
+   "hook": "two of every animal, captained by Noah."
+  },
+  {
+   "number": "03",
+   "peg": "Ma",
+   "hook": "three letters in MOM, call her up."
+  },
+  {
+   "number": "04",
+   "peg": "ray",
+   "hook": "R (4): a single ray cresting the hill."
+  },
+  {
+   "number": "05",
+   "peg": "law",
+   "hook": "five fingers raised, swearing the law."
+  },
+  {
+   "number": "06",
+   "peg": "shoe",
+   "hook": "Sh (6): the lucky shoe slides on, a leather hiss."
+  },
+  {
+   "number": "07",
+   "peg": "key",
+   "hook": "K (7): key clicks the tumbler open."
+  },
+  {
+   "number": "08",
+   "peg": "ivy",
+   "hook": "eight tendrils of ivy on a wall."
+  },
+  {
+   "number": "09",
+   "peg": "pie",
+   "hook": "nine slices, one missing."
+  },
+  {
+   "number": "10",
+   "peg": "toes",
+   "hook": "ten toes, count them."
+  },
+  {
+   "number": "11",
+   "peg": "tot",
+   "hook": "a small child, 1 + 1."
+  },
+  {
+   "number": "12",
+   "peg": "tin",
+   "hook": "tin can, twelve in a pack."
+  },
+  {
+   "number": "13",
+   "peg": "tomb",
+   "hook": "T+M = tomb: the mummy lies inside."
+  },
+  {
+   "number": "14",
+   "peg": "tire",
+   "hook": "T (1) + R (4): tire blows on the highway."
+  },
+  {
+   "number": "15",
+   "peg": "towel",
+   "hook": "T (1) + L (5): towel snaps in the locker room."
+  },
+  {
+   "number": "16",
+   "peg": "dish",
+   "hook": "T (1) + Sh (6): dish crashes, the Sh of broken china."
+  },
+  {
+   "number": "17",
+   "peg": "tack",
+   "hook": "T (1) + K (7): tack pressed into cork with a click."
+  },
+  {
+   "number": "18",
+   "peg": "dove",
+   "hook": "T (1) + V (8): dove takes flight, the whoosh of wings."
+  },
+  {
+   "number": "19",
+   "peg": "tape",
+   "hook": "T (1) + P (9): tape pulled from the dispenser, pop by pop."
+  },
+  {
+   "number": "20",
+   "peg": "nose",
+   "hook": "N (2) + S (0): nose twitches, then the sniffle."
+  },
+  {
+   "number": "21",
+   "peg": "knot",
+   "hook": "N (2) + T (1): knot pulled tight, the grunt of effort."
+  },
+  {
+   "number": "22",
+   "peg": "nun",
+   "hook": "two N's, two nuns in the cloister."
+  },
+  {
+   "number": "23",
+   "peg": "name",
+   "hook": "your name on a 23-page form."
+  },
+  {
+   "number": "24",
+   "peg": "Nero",
+   "hook": "N (2) + R (4): Nero's fiddle growls as Rome burns."
+  },
+  {
+   "number": "25",
+   "peg": "nail",
+   "hook": "N (2) + L (5): nail driven flush with one blow."
+  },
+  {
+   "number": "26",
+   "peg": "notch",
+   "hook": "N (2) + Sh (6): notch cut into the shaft."
+  },
+  {
+   "number": "27",
+   "peg": "neck",
+   "hook": "N (2) + K (7): neck craning over the fence to look."
+  },
+  {
+   "number": "28",
+   "peg": "knife",
+   "hook": "N (2) + F (8): knife drawn, the hiss of steel on leather."
+  },
+  {
+   "number": "29",
+   "peg": "knob",
+   "hook": "N (2) + B (9): knob turned, the click before entry."
+  },
+  {
+   "number": "30",
+   "peg": "mouse",
+   "hook": "M (3) + S (0): mouse darts, a squeak under the hedge."
+  },
+  {
+   "number": "31",
+   "peg": "mat",
+   "hook": "M (3) + T (1): mat scuffed at the door."
+  },
+  {
+   "number": "32",
+   "peg": "moon",
+   "hook": "M (3) + N (2): moon hums over the lake."
+  },
+  {
+   "number": "33",
+   "peg": "mummy",
+   "hook": "two M's, twin mummies side by side."
+  },
+  {
+   "number": "34",
+   "peg": "mower",
+   "hook": "M (3) + R (4): mower roars across the strip."
+  },
+  {
+   "number": "35",
+   "peg": "mule",
+   "hook": "M (3) + L (5): mule leans and won't budge."
+  },
+  {
+   "number": "36",
+   "peg": "match",
+   "hook": "M (3) + Ch (6): match struck, the scrape and flash."
+  },
+  {
+   "number": "37",
+   "peg": "mug",
+   "hook": "M (3) + K (7): mug clinks down on the saucer."
+  },
+  {
+   "number": "38",
+   "peg": "movie",
+   "hook": "M (3) + V (8): movie reel whirs in the dark."
+  },
+  {
+   "number": "39",
+   "peg": "map",
+   "hook": "M (3) + P (9): map rustles open at the crease."
+  },
+  {
+   "number": "40",
+   "peg": "rose",
+   "hook": "R (4) + S (0): rose stem rips from the soil."
+  },
+  {
+   "number": "41",
+   "peg": "rat",
+   "hook": "R (4) + T (1): rat claws scratch the plexiglass."
+  },
+  {
+   "number": "42",
+   "peg": "rain",
+   "hook": "R (4) + N (2): rain drums the windowpane."
+  },
+  {
+   "number": "43",
+   "peg": "ram",
+   "hook": "R (4) + M (3): ram locks horns."
+  },
+  {
+   "number": "44",
+   "peg": "rower",
+   "hook": "R (4) + R (4): two oar-strokes, the rower pulls."
+  },
+  {
+   "number": "45",
+   "peg": "rail",
+   "hook": "R (4) + L (5): rail leaned on, the long groan of wood."
+  },
+  {
+   "number": "46",
+   "peg": "rash",
+   "hook": "R (4) + Sh (6): a red rash spreads."
+  },
+  {
+   "number": "47",
+   "peg": "rock",
+   "hook": "R (4) + K (7): rock kicked off the path."
+  },
+  {
+   "number": "48",
+   "peg": "roof",
+   "hook": "R (4) + F (8): roof tiles rattle in the gale."
+  },
+  {
+   "number": "49",
+   "peg": "rope",
+   "hook": "R (4) + P (9): rope burned through your hands."
+  },
+  {
+   "number": "50",
+   "peg": "lace",
+   "hook": "L (5) + S (0): lace whispers as the bow tightens."
+  },
+  {
+   "number": "51",
+   "peg": "lad",
+   "hook": "L (5) + T (1): lad bolts out the door."
+  },
+  {
+   "number": "52",
+   "peg": "lion",
+   "hook": "L (5) + N (2): lion's low warning rumble."
+  },
+  {
+   "number": "53",
+   "peg": "lamb",
+   "hook": "L (5) + M (3): lamb bleats at the gate."
+  },
+  {
+   "number": "54",
+   "peg": "lure",
+   "hook": "L (5) + R (4): lure flashes and rattles in the current."
+  },
+  {
+   "number": "55",
+   "peg": "lily",
+   "hook": "two L's, twin lilies."
+  },
+  {
+   "number": "56",
+   "peg": "leash",
+   "hook": "L (5) + Sh (6): leash snaps taut, the lurch forward."
+  },
+  {
+   "number": "57",
+   "peg": "lake",
+   "hook": "L (5) + K (7): lake surface cracks in the cold."
+  },
+  {
+   "number": "58",
+   "peg": "leaf",
+   "hook": "L (5) + F (8): leaf falls, the dry crunch underfoot."
+  },
+  {
+   "number": "59",
+   "peg": "lip",
+   "hook": "L (5) + P (9): lips kiss-pop into the mic."
+  },
+  {
+   "number": "60",
+   "peg": "cheese",
+   "hook": "Ch (6) + S (0): cheese oozes."
+  },
+  {
+   "number": "61",
+   "peg": "sheet",
+   "hook": "Sh (6) + T (1): sheet snapped taut over the mattress."
+  },
+  {
+   "number": "62",
+   "peg": "chain",
+   "hook": "Ch (6) + N (2): chain dropped, the ringing noise."
+  },
+  {
+   "number": "63",
+   "peg": "jam",
+   "hook": "J (6) + M (3): jam slops off the spoon."
+  },
+  {
+   "number": "64",
+   "peg": "chair",
+   "hook": "Ch (6) + R (4): chair scrapes across the stone."
+  },
+  {
+   "number": "65",
+   "peg": "shell",
+   "hook": "Sh (6) + L (5): shell held up, the long ocean hush."
+  },
+  {
+   "number": "66",
+   "peg": "judge",
+   "hook": "J (6) + J (6): judge's gavel, strike and echo."
+  },
+  {
+   "number": "67",
+   "peg": "chalk",
+   "hook": "Ch (6) + K (7): chalk snaps against the slate."
+  },
+  {
+   "number": "68",
+   "peg": "chef",
+   "hook": "Ch (6) + F (8): chef's pan flares, the whoosh."
+  },
+  {
+   "number": "69",
+   "peg": "ship",
+   "hook": "Sh (6) + P (9): ship parts the fog, horn blast."
+  },
+  {
+   "number": "70",
+   "peg": "case",
+   "hook": "K (7) + S (0): case clicks open, papers fan."
+  },
+  {
+   "number": "71",
+   "peg": "cat",
+   "hook": "K (7) + T (1): cat lands, the soft thump."
+  },
+  {
+   "number": "72",
+   "peg": "can",
+   "hook": "K (7) + N (2): can opener clicks."
+  },
+  {
+   "number": "73",
+   "peg": "comb",
+   "hook": "K (7) + M (3): comb crackles through dry hair."
+  },
+  {
+   "number": "74",
+   "peg": "car",
+   "hook": "K (7) + R (4): car coughs, then the engine roars."
+  },
+  {
+   "number": "75",
+   "peg": "coal",
+   "hook": "K (7) + L (5): coal clinks into the scuttle."
+  },
+  {
+   "number": "76",
+   "peg": "cash",
+   "hook": "K (7) + Sh (6): cash riffles under a thumb."
+  },
+  {
+   "number": "77",
+   "peg": "cake",
+   "hook": "two K's, double-layer cake."
+  },
+  {
+   "number": "78",
+   "peg": "cave",
+   "hook": "K (7) + V (8): cave drips far back in the dark."
+  },
+  {
+   "number": "79",
+   "peg": "cap",
+   "hook": "K (7) + P (9): cap strap snaps shut."
+  },
+  {
+   "number": "80",
+   "peg": "face",
+   "hook": "F (8) + S (0): face flat, the shutter clicks."
+  },
+  {
+   "number": "81",
+   "peg": "fat",
+   "hook": "F (8) + T (1): fat drips off the rack."
+  },
+  {
+   "number": "82",
+   "peg": "fan",
+   "hook": "F (8) + N (2): fan whirrs, papers flutter."
+  },
+  {
+   "number": "83",
+   "peg": "foam",
+   "hook": "F (8) + M (3): foam pops along the tide line."
+  },
+  {
+   "number": "84",
+   "peg": "fire",
+   "hook": "F (8) + R (4): fire crackles, sparks rise."
+  },
+  {
+   "number": "85",
+   "peg": "file",
+   "hook": "F (8) + L (5): file slides from the drawer."
+  },
+  {
+   "number": "86",
+   "peg": "fish",
+   "hook": "F (8) + Sh (6): fish slaps the wicker creel."
+  },
+  {
+   "number": "87",
+   "peg": "fog",
+   "hook": "F (8) + K (7): fog swallows the headlights."
+  },
+  {
+   "number": "88",
+   "peg": "fife",
+   "hook": "two F's, twin fifes."
+  },
+  {
+   "number": "89",
+   "peg": "fob",
+   "hook": "F (8) + B (9): fob chimes against the waistcoat."
+  },
+  {
+   "number": "90",
+   "peg": "pose",
+   "hook": "P (9) + S (0): hold the pose."
+  },
+  {
+   "number": "91",
+   "peg": "pot",
+   "hook": "P (9) + T (1): pot lid lifts and drops."
+  },
+  {
+   "number": "92",
+   "peg": "pen",
+   "hook": "P (9) + N (2): pen nib scratches the fibre."
+  },
+  {
+   "number": "93",
+   "peg": "poem",
+   "hook": "P (9) + M (3): poem's page turns with a soft hum."
+  },
+  {
+   "number": "94",
+   "peg": "pier",
+   "hook": "P (9) + R (4): pier boards creak underfoot."
+  },
+  {
+   "number": "95",
+   "peg": "pail",
+   "hook": "P (9) + L (5): pail sloshes at the rim."
+  },
+  {
+   "number": "96",
+   "peg": "peach",
+   "hook": "P (9) + Ch (6): peach splits with a squelch."
+  },
+  {
+   "number": "97",
+   "peg": "puck",
+   "hook": "P (9) + K (7): puck cracks off the post."
+  },
+  {
+   "number": "98",
+   "peg": "puff",
+   "hook": "P (9) + F (8): puff of steam breathes out."
+  },
+  {
+   "number": "99",
+   "peg": "pipe",
+   "hook": "two P's, twin pipes."
+  }
+ ],
+ "major-000-999": [
+  {
+   "number": "000",
+   "peg": "seesaws",
+   "hook": "S-S-S: a row of seesaws in an empty playground."
+  },
+  {
+   "number": "001",
+   "peg": "tea",
+   "hook": "leading zero is silent: tea pegs 01."
+  },
+  {
+   "number": "002",
+   "peg": "Noah",
+   "hook": "leading zero is silent: Noah pegs 02."
+  },
+  {
+   "number": "003",
+   "peg": "Ma",
+   "hook": "leading zero is silent: Ma pegs 03."
+  },
+  {
+   "number": "004",
+   "peg": "ray",
+   "hook": "leading zero is silent: ray pegs 04."
+  },
+  {
+   "number": "005",
+   "peg": "law",
+   "hook": "leading zero is silent: law pegs 05."
+  },
+  {
+   "number": "006",
+   "peg": "shoe",
+   "hook": "leading zero is silent: shoe pegs 06."
+  },
+  {
+   "number": "007",
+   "peg": "key",
+   "hook": "leading zero is silent: key pegs 07."
+  },
+  {
+   "number": "008",
+   "peg": "ivy",
+   "hook": "leading zero is silent: ivy pegs 08."
+  },
+  {
+   "number": "009",
+   "peg": "pie",
+   "hook": "leading zero is silent: pie pegs 09."
+  },
+  {
+   "number": "010",
+   "peg": "toes",
+   "hook": "leading zero is silent: toes pegs 10."
+  },
+  {
+   "number": "011",
+   "peg": "tot",
+   "hook": "leading zero is silent: tot pegs 11."
+  },
+  {
+   "number": "012",
+   "peg": "tin",
+   "hook": "leading zero is silent: tin pegs 12."
+  },
+  {
+   "number": "013",
+   "peg": "tomb",
+   "hook": "leading zero is silent: tomb pegs 13."
+  },
+  {
+   "number": "014",
+   "peg": "tire",
+   "hook": "leading zero is silent: tire pegs 14."
+  },
+  {
+   "number": "015",
+   "peg": "towel",
+   "hook": "leading zero is silent: towel pegs 15."
+  },
+  {
+   "number": "016",
+   "peg": "dish",
+   "hook": "leading zero is silent: dish pegs 16."
+  },
+  {
+   "number": "017",
+   "peg": "tack",
+   "hook": "leading zero is silent: tack pegs 17."
+  },
+  {
+   "number": "018",
+   "peg": "dove",
+   "hook": "leading zero is silent: dove pegs 18."
+  },
+  {
+   "number": "019",
+   "peg": "tape",
+   "hook": "leading zero is silent: tape pegs 19."
+  },
+  {
+   "number": "020",
+   "peg": "nose",
+   "hook": "leading zero is silent: nose pegs 20."
+  },
+  {
+   "number": "021",
+   "peg": "knot",
+   "hook": "leading zero is silent: knot pegs 21."
+  },
+  {
+   "number": "022",
+   "peg": "nun",
+   "hook": "leading zero is silent: nun pegs 22."
+  },
+  {
+   "number": "023",
+   "peg": "name",
+   "hook": "leading zero is silent: name pegs 23."
+  },
+  {
+   "number": "024",
+   "peg": "Nero",
+   "hook": "leading zero is silent: Nero pegs 24."
+  },
+  {
+   "number": "025",
+   "peg": "nail",
+   "hook": "leading zero is silent: nail pegs 25."
+  },
+  {
+   "number": "026",
+   "peg": "notch",
+   "hook": "leading zero is silent: notch pegs 26."
+  },
+  {
+   "number": "027",
+   "peg": "neck",
+   "hook": "leading zero is silent: neck pegs 27."
+  },
+  {
+   "number": "028",
+   "peg": "knife",
+   "hook": "leading zero is silent: knife pegs 28."
+  },
+  {
+   "number": "029",
+   "peg": "knob",
+   "hook": "leading zero is silent: knob pegs 29."
+  },
+  {
+   "number": "030",
+   "peg": "mouse",
+   "hook": "leading zero is silent: mouse pegs 30."
+  },
+  {
+   "number": "031",
+   "peg": "mat",
+   "hook": "leading zero is silent: mat pegs 31."
+  },
+  {
+   "number": "032",
+   "peg": "moon",
+   "hook": "leading zero is silent: moon pegs 32."
+  },
+  {
+   "number": "033",
+   "peg": "mummy",
+   "hook": "leading zero is silent: mummy pegs 33."
+  },
+  {
+   "number": "034",
+   "peg": "mower",
+   "hook": "leading zero is silent: mower pegs 34."
+  },
+  {
+   "number": "035",
+   "peg": "mule",
+   "hook": "leading zero is silent: mule pegs 35."
+  },
+  {
+   "number": "036",
+   "peg": "match",
+   "hook": "leading zero is silent: match pegs 36."
+  },
+  {
+   "number": "037",
+   "peg": "mug",
+   "hook": "leading zero is silent: mug pegs 37."
+  },
+  {
+   "number": "038",
+   "peg": "movie",
+   "hook": "leading zero is silent: movie pegs 38."
+  },
+  {
+   "number": "039",
+   "peg": "map",
+   "hook": "leading zero is silent: map pegs 39."
+  },
+  {
+   "number": "040",
+   "peg": "rose",
+   "hook": "leading zero is silent: rose pegs 40."
+  },
+  {
+   "number": "041",
+   "peg": "rat",
+   "hook": "leading zero is silent: rat pegs 41."
+  },
+  {
+   "number": "042",
+   "peg": "rain",
+   "hook": "leading zero is silent: rain pegs 42."
+  },
+  {
+   "number": "043",
+   "peg": "ram",
+   "hook": "leading zero is silent: ram pegs 43."
+  },
+  {
+   "number": "044",
+   "peg": "rower",
+   "hook": "leading zero is silent: rower pegs 44."
+  },
+  {
+   "number": "045",
+   "peg": "rail",
+   "hook": "leading zero is silent: rail pegs 45."
+  },
+  {
+   "number": "046",
+   "peg": "rash",
+   "hook": "leading zero is silent: rash pegs 46."
+  },
+  {
+   "number": "047",
+   "peg": "rock",
+   "hook": "leading zero is silent: rock pegs 47."
+  },
+  {
+   "number": "048",
+   "peg": "roof",
+   "hook": "leading zero is silent: roof pegs 48."
+  },
+  {
+   "number": "049",
+   "peg": "rope",
+   "hook": "leading zero is silent: rope pegs 49."
+  },
+  {
+   "number": "050",
+   "peg": "lace",
+   "hook": "leading zero is silent: lace pegs 50."
+  },
+  {
+   "number": "051",
+   "peg": "lad",
+   "hook": "leading zero is silent: lad pegs 51."
+  },
+  {
+   "number": "052",
+   "peg": "lion",
+   "hook": "leading zero is silent: lion pegs 52."
+  },
+  {
+   "number": "053",
+   "peg": "lamb",
+   "hook": "leading zero is silent: lamb pegs 53."
+  },
+  {
+   "number": "054",
+   "peg": "lure",
+   "hook": "leading zero is silent: lure pegs 54."
+  },
+  {
+   "number": "055",
+   "peg": "lily",
+   "hook": "leading zero is silent: lily pegs 55."
+  },
+  {
+   "number": "056",
+   "peg": "leash",
+   "hook": "leading zero is silent: leash pegs 56."
+  },
+  {
+   "number": "057",
+   "peg": "lake",
+   "hook": "leading zero is silent: lake pegs 57."
+  },
+  {
+   "number": "058",
+   "peg": "leaf",
+   "hook": "leading zero is silent: leaf pegs 58."
+  },
+  {
+   "number": "059",
+   "peg": "lip",
+   "hook": "leading zero is silent: lip pegs 59."
+  },
+  {
+   "number": "060",
+   "peg": "cheese",
+   "hook": "leading zero is silent: cheese pegs 60."
+  },
+  {
+   "number": "061",
+   "peg": "sheet",
+   "hook": "leading zero is silent: sheet pegs 61."
+  },
+  {
+   "number": "062",
+   "peg": "chain",
+   "hook": "leading zero is silent: chain pegs 62."
+  },
+  {
+   "number": "063",
+   "peg": "jam",
+   "hook": "leading zero is silent: jam pegs 63."
+  },
+  {
+   "number": "064",
+   "peg": "chair",
+   "hook": "leading zero is silent: chair pegs 64."
+  },
+  {
+   "number": "065",
+   "peg": "shell",
+   "hook": "leading zero is silent: shell pegs 65."
+  },
+  {
+   "number": "066",
+   "peg": "judge",
+   "hook": "leading zero is silent: judge pegs 66."
+  },
+  {
+   "number": "067",
+   "peg": "chalk",
+   "hook": "leading zero is silent: chalk pegs 67."
+  },
+  {
+   "number": "068",
+   "peg": "chef",
+   "hook": "leading zero is silent: chef pegs 68."
+  },
+  {
+   "number": "069",
+   "peg": "ship",
+   "hook": "leading zero is silent: ship pegs 69."
+  },
+  {
+   "number": "070",
+   "peg": "case",
+   "hook": "leading zero is silent: case pegs 70."
+  },
+  {
+   "number": "071",
+   "peg": "cat",
+   "hook": "leading zero is silent: cat pegs 71."
+  },
+  {
+   "number": "072",
+   "peg": "can",
+   "hook": "leading zero is silent: can pegs 72."
+  },
+  {
+   "number": "073",
+   "peg": "comb",
+   "hook": "leading zero is silent: comb pegs 73."
+  },
+  {
+   "number": "074",
+   "peg": "car",
+   "hook": "leading zero is silent: car pegs 74."
+  },
+  {
+   "number": "075",
+   "peg": "coal",
+   "hook": "leading zero is silent: coal pegs 75."
+  },
+  {
+   "number": "076",
+   "peg": "cash",
+   "hook": "leading zero is silent: cash pegs 76."
+  },
+  {
+   "number": "077",
+   "peg": "cake",
+   "hook": "leading zero is silent: cake pegs 77."
+  },
+  {
+   "number": "078",
+   "peg": "cave",
+   "hook": "leading zero is silent: cave pegs 78."
+  },
+  {
+   "number": "079",
+   "peg": "cap",
+   "hook": "leading zero is silent: cap pegs 79."
+  },
+  {
+   "number": "080",
+   "peg": "face",
+   "hook": "leading zero is silent: face pegs 80."
+  },
+  {
+   "number": "081",
+   "peg": "fat",
+   "hook": "leading zero is silent: fat pegs 81."
+  },
+  {
+   "number": "082",
+   "peg": "fan",
+   "hook": "leading zero is silent: fan pegs 82."
+  },
+  {
+   "number": "083",
+   "peg": "foam",
+   "hook": "leading zero is silent: foam pegs 83."
+  },
+  {
+   "number": "084",
+   "peg": "fire",
+   "hook": "leading zero is silent: fire pegs 84."
+  },
+  {
+   "number": "085",
+   "peg": "file",
+   "hook": "leading zero is silent: file pegs 85."
+  },
+  {
+   "number": "086",
+   "peg": "fish",
+   "hook": "leading zero is silent: fish pegs 86."
+  },
+  {
+   "number": "087",
+   "peg": "fog",
+   "hook": "leading zero is silent: fog pegs 87."
+  },
+  {
+   "number": "088",
+   "peg": "fife",
+   "hook": "leading zero is silent: fife pegs 88."
+  },
+  {
+   "number": "089",
+   "peg": "fob",
+   "hook": "leading zero is silent: fob pegs 89."
+  },
+  {
+   "number": "090",
+   "peg": "pose",
+   "hook": "leading zero is silent: pose pegs 90."
+  },
+  {
+   "number": "091",
+   "peg": "pot",
+   "hook": "leading zero is silent: pot pegs 91."
+  },
+  {
+   "number": "092",
+   "peg": "pen",
+   "hook": "leading zero is silent: pen pegs 92."
+  },
+  {
+   "number": "093",
+   "peg": "poem",
+   "hook": "leading zero is silent: poem pegs 93."
+  },
+  {
+   "number": "094",
+   "peg": "pier",
+   "hook": "leading zero is silent: pier pegs 94."
+  },
+  {
+   "number": "095",
+   "peg": "pail",
+   "hook": "leading zero is silent: pail pegs 95."
+  },
+  {
+   "number": "096",
+   "peg": "peach",
+   "hook": "leading zero is silent: peach pegs 96."
+  },
+  {
+   "number": "097",
+   "peg": "puck",
+   "hook": "leading zero is silent: puck pegs 97."
+  },
+  {
+   "number": "098",
+   "peg": "puff",
+   "hook": "leading zero is silent: puff pegs 98."
+  },
+  {
+   "number": "099",
+   "peg": "pipe",
+   "hook": "leading zero is silent: pipe pegs 99."
+  },
+  {
+   "number": "100",
+   "peg": "thesis",
+   "hook": "T-S-S: a bound thesis on a thick desk."
+  },
+  {
+   "number": "101",
+   "peg": "toast",
+   "hook": ""
+  },
+  {
+   "number": "102",
+   "peg": "hot sun",
+   "hook": "hot (1) + sun (02): chain both into one image."
+  },
+  {
+   "number": "103",
+   "peg": "woods home",
+   "hook": "woods (10) + home (3): chain both into one image."
+  },
+  {
+   "number": "104",
+   "peg": "tweezer",
+   "hook": ""
+  },
+  {
+   "number": "105",
+   "peg": "diesel",
+   "hook": ""
+  },
+  {
+   "number": "106",
+   "peg": "dice shoe",
+   "hook": "dice (10) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "107",
+   "peg": "desk",
+   "hook": ""
+  },
+  {
+   "number": "108",
+   "peg": "wet sofa",
+   "hook": "wet (1) + sofa (08): chain both into one image."
+  },
+  {
+   "number": "109",
+   "peg": "hot soup",
+   "hook": "hot (1) + soup (09): chain both into one image."
+  },
+  {
+   "number": "110",
+   "peg": "tights",
+   "hook": ""
+  },
+  {
+   "number": "111",
+   "peg": "toad hat",
+   "hook": "toad (11) + hat (1): chain both into one image."
+  },
+  {
+   "number": "112",
+   "peg": "tea tin",
+   "hook": "tea (1) + tin (12): chain both into one image."
+  },
+  {
+   "number": "113",
+   "peg": "toad home",
+   "hook": "toad (11) + home (3): chain both into one image."
+  },
+  {
+   "number": "114",
+   "peg": "theater",
+   "hook": ""
+  },
+  {
+   "number": "115",
+   "peg": "doodle",
+   "hook": ""
+  },
+  {
+   "number": "116",
+   "peg": "hot dish",
+   "hook": "hot (1) + dish (16): chain both into one image."
+  },
+  {
+   "number": "117",
+   "peg": "hot dog",
+   "hook": "hot (1) + dog (17): chain both into one image."
+  },
+  {
+   "number": "118",
+   "peg": "hot tofu",
+   "hook": "hot (1) + tofu (18): chain both into one image."
+  },
+  {
+   "number": "119",
+   "peg": "hot tub",
+   "hook": "hot (1) + tub (19): chain both into one image."
+  },
+  {
+   "number": "120",
+   "peg": "twins",
+   "hook": ""
+  },
+  {
+   "number": "121",
+   "peg": "tent",
+   "hook": ""
+  },
+  {
+   "number": "122",
+   "peg": "wooden knee",
+   "hook": "wooden (12) + knee (2): chain both into one image."
+  },
+  {
+   "number": "123",
+   "peg": "denim",
+   "hook": "D-N-M: a stiff new pair of denim jeans."
+  },
+  {
+   "number": "124",
+   "peg": "diner",
+   "hook": ""
+  },
+  {
+   "number": "125",
+   "peg": "tunnel",
+   "hook": ""
+  },
+  {
+   "number": "126",
+   "peg": "wooden shoe",
+   "hook": "wooden (12) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "127",
+   "peg": "wooden key",
+   "hook": "wooden (12) + key (7): chain both into one image."
+  },
+  {
+   "number": "128",
+   "peg": "hot knife",
+   "hook": "hot (1) + knife (28): chain both into one image."
+  },
+  {
+   "number": "129",
+   "peg": "wooden boy",
+   "hook": "wooden (12) + boy (9): chain both into one image."
+  },
+  {
+   "number": "130",
+   "peg": "atoms",
+   "hook": ""
+  },
+  {
+   "number": "131",
+   "peg": "tomato",
+   "hook": ""
+  },
+  {
+   "number": "132",
+   "peg": "domino",
+   "hook": ""
+  },
+  {
+   "number": "133",
+   "peg": "dome home",
+   "hook": "dome (13) + home (3): chain both into one image."
+  },
+  {
+   "number": "134",
+   "peg": "timer",
+   "hook": ""
+  },
+  {
+   "number": "135",
+   "peg": "oatmeal",
+   "hook": ""
+  },
+  {
+   "number": "136",
+   "peg": "hot match",
+   "hook": "hot (1) + match (36): chain both into one image."
+  },
+  {
+   "number": "137",
+   "peg": "tomahawk",
+   "hook": ""
+  },
+  {
+   "number": "138",
+   "peg": "tomb ivy",
+   "hook": "tomb (13) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "139",
+   "peg": "wet mop",
+   "hook": "wet (1) + mop (39): chain both into one image."
+  },
+  {
+   "number": "140",
+   "peg": "tears",
+   "hook": ""
+  },
+  {
+   "number": "141",
+   "peg": "dart",
+   "hook": ""
+  },
+  {
+   "number": "142",
+   "peg": "train",
+   "hook": ""
+  },
+  {
+   "number": "143",
+   "peg": "drum",
+   "hook": ""
+  },
+  {
+   "number": "144",
+   "peg": "drawer",
+   "hook": ""
+  },
+  {
+   "number": "145",
+   "peg": "drill",
+   "hook": ""
+  },
+  {
+   "number": "146",
+   "peg": "torch",
+   "hook": ""
+  },
+  {
+   "number": "147",
+   "peg": "truck",
+   "hook": ""
+  },
+  {
+   "number": "148",
+   "peg": "trophy",
+   "hook": ""
+  },
+  {
+   "number": "149",
+   "peg": "trap",
+   "hook": ""
+  },
+  {
+   "number": "150",
+   "peg": "tools",
+   "hook": ""
+  },
+  {
+   "number": "151",
+   "peg": "toilet",
+   "hook": ""
+  },
+  {
+   "number": "152",
+   "peg": "talon",
+   "hook": ""
+  },
+  {
+   "number": "153",
+   "peg": "doll home",
+   "hook": "doll (15) + home (3): chain both into one image."
+  },
+  {
+   "number": "154",
+   "peg": "dollar",
+   "hook": ""
+  },
+  {
+   "number": "155",
+   "peg": "tail wheel",
+   "hook": "tail (15) + wheel (5): chain both into one image."
+  },
+  {
+   "number": "156",
+   "peg": "doll shoe",
+   "hook": "doll (15) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "157",
+   "peg": "wet log",
+   "hook": "wet (1) + log (57): chain both into one image."
+  },
+  {
+   "number": "158",
+   "peg": "hot lava",
+   "hook": "hot (1) + lava (58): chain both into one image."
+  },
+  {
+   "number": "159",
+   "peg": "tulip",
+   "hook": ""
+  },
+  {
+   "number": "160",
+   "peg": "duchess",
+   "hook": ""
+  },
+  {
+   "number": "161",
+   "peg": "woodshed",
+   "hook": ""
+  },
+  {
+   "number": "162",
+   "peg": "wet chin",
+   "hook": "wet (1) + chin (62): chain both into one image."
+  },
+  {
+   "number": "163",
+   "peg": "dish ham",
+   "hook": "dish (16) + ham (3): chain both into one image."
+  },
+  {
+   "number": "164",
+   "peg": "teacher",
+   "hook": ""
+  },
+  {
+   "number": "165",
+   "peg": "hot chili",
+   "hook": "hot (1) + chili (65): chain both into one image."
+  },
+  {
+   "number": "166",
+   "peg": "dish shoe",
+   "hook": "dish (16) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "167",
+   "peg": "woodchuck",
+   "hook": ""
+  },
+  {
+   "number": "168",
+   "peg": "hot chef",
+   "hook": "hot (1) + chef (68): chain both into one image."
+  },
+  {
+   "number": "169",
+   "peg": "hot chip",
+   "hook": "hot (1) + chip (69): chain both into one image."
+  },
+  {
+   "number": "170",
+   "peg": "tacos",
+   "hook": ""
+  },
+  {
+   "number": "171",
+   "peg": "ticket",
+   "hook": ""
+  },
+  {
+   "number": "172",
+   "peg": "token",
+   "hook": ""
+  },
+  {
+   "number": "173",
+   "peg": "dog ham",
+   "hook": "dog (17) + ham (3): chain both into one image."
+  },
+  {
+   "number": "174",
+   "peg": "dog hair",
+   "hook": "dog (17) + hair (4): chain both into one image."
+  },
+  {
+   "number": "175",
+   "peg": "tackle",
+   "hook": ""
+  },
+  {
+   "number": "176",
+   "peg": "dog show",
+   "hook": "dog (17) + show (6): chain both into one image."
+  },
+  {
+   "number": "177",
+   "peg": "hot cake",
+   "hook": "hot (1) + cake (77): chain both into one image."
+  },
+  {
+   "number": "178",
+   "peg": "decaf",
+   "hook": ""
+  },
+  {
+   "number": "179",
+   "peg": "teacup",
+   "hook": ""
+  },
+  {
+   "number": "180",
+   "peg": "doves",
+   "hook": ""
+  },
+  {
+   "number": "181",
+   "peg": "outfit",
+   "hook": ""
+  },
+  {
+   "number": "182",
+   "peg": "typhoon",
+   "hook": ""
+  },
+  {
+   "number": "183",
+   "peg": "dove home",
+   "hook": "dove (18) + home (3): chain both into one image."
+  },
+  {
+   "number": "184",
+   "peg": "diver",
+   "hook": ""
+  },
+  {
+   "number": "185",
+   "peg": "duffel",
+   "hook": ""
+  },
+  {
+   "number": "186",
+   "peg": "hot fudge",
+   "hook": "hot (1) + fudge (86): chain both into one image."
+  },
+  {
+   "number": "187",
+   "peg": "dove egg",
+   "hook": "dove (18) + egg (7): chain both into one image."
+  },
+  {
+   "number": "188",
+   "peg": "dove ivy",
+   "hook": "dove (18) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "189",
+   "peg": "dove pie",
+   "hook": "dove (18) + pie (9): chain both into one image."
+  },
+  {
+   "number": "190",
+   "peg": "topaz",
+   "hook": ""
+  },
+  {
+   "number": "191",
+   "peg": "teapot",
+   "hook": ""
+  },
+  {
+   "number": "192",
+   "peg": "hot pan",
+   "hook": "hot (1) + pan (92): chain both into one image."
+  },
+  {
+   "number": "193",
+   "peg": "tub ham",
+   "hook": "tub (19) + ham (3): chain both into one image."
+  },
+  {
+   "number": "194",
+   "peg": "diaper",
+   "hook": ""
+  },
+  {
+   "number": "195",
+   "peg": "table",
+   "hook": ""
+  },
+  {
+   "number": "196",
+   "peg": "hot beach",
+   "hook": "hot (1) + beach (96): chain both into one image."
+  },
+  {
+   "number": "197",
+   "peg": "tea bag",
+   "hook": "tea (1) + bag (97): chain both into one image."
+  },
+  {
+   "number": "198",
+   "peg": "hot beef",
+   "hook": "hot (1) + beef (98): chain both into one image."
+  },
+  {
+   "number": "199",
+   "peg": "wet puppy",
+   "hook": "wet (1) + puppy (99): chain both into one image."
+  },
+  {
+   "number": "200",
+   "peg": "noses",
+   "hook": "N-S-S: two hundred sniffles."
+  },
+  {
+   "number": "201",
+   "peg": "nest",
+   "hook": ""
+  },
+  {
+   "number": "202",
+   "peg": "hen snow",
+   "hook": "hen (2) + snow (02): chain both into one image."
+  },
+  {
+   "number": "203",
+   "peg": "nose ham",
+   "hook": "nose (20) + ham (3): chain both into one image."
+  },
+  {
+   "number": "204",
+   "peg": "nose hair",
+   "hook": "nose (20) + hair (4): chain both into one image."
+  },
+  {
+   "number": "205",
+   "peg": "nozzle",
+   "hook": ""
+  },
+  {
+   "number": "206",
+   "peg": "hen sushi",
+   "hook": "hen (2) + sushi (06): chain both into one image."
+  },
+  {
+   "number": "207",
+   "peg": "knee sock",
+   "hook": "knee (2) + sock (07): chain both into one image."
+  },
+  {
+   "number": "208",
+   "peg": "hen sofa",
+   "hook": "hen (2) + sofa (08): chain both into one image."
+  },
+  {
+   "number": "209",
+   "peg": "honey soap",
+   "hook": "honey (2) + soap (09): chain both into one image."
+  },
+  {
+   "number": "210",
+   "peg": "handsaw",
+   "hook": ""
+  },
+  {
+   "number": "211",
+   "peg": "knee tattoo",
+   "hook": "knee (2) + tattoo (11): chain both into one image."
+  },
+  {
+   "number": "212",
+   "peg": "antenna",
+   "hook": ""
+  },
+  {
+   "number": "213",
+   "peg": "hand ham",
+   "hook": "hand (21) + ham (3): chain both into one image."
+  },
+  {
+   "number": "214",
+   "peg": "hunter",
+   "hook": ""
+  },
+  {
+   "number": "215",
+   "peg": "needle",
+   "hook": ""
+  },
+  {
+   "number": "216",
+   "peg": "honey dish",
+   "hook": "honey (2) + dish (16): chain both into one image."
+  },
+  {
+   "number": "217",
+   "peg": "hand hook",
+   "hook": "hand (21) + hook (7): chain both into one image."
+  },
+  {
+   "number": "218",
+   "peg": "hand wave",
+   "hook": "hand (21) + wave (8): chain both into one image."
+  },
+  {
+   "number": "219",
+   "peg": "knee tape",
+   "hook": "knee (2) + tape (19): chain both into one image."
+  },
+  {
+   "number": "220",
+   "peg": "neons",
+   "hook": ""
+  },
+  {
+   "number": "221",
+   "peg": "nun hat",
+   "hook": "nun (22) + hat (1): chain both into one image."
+  },
+  {
+   "number": "222",
+   "peg": "hen onion",
+   "hook": "hen (2) + onion (22): chain both into one image."
+  },
+  {
+   "number": "223",
+   "peg": "onion ham",
+   "hook": "onion (22) + ham (3): chain both into one image."
+  },
+  {
+   "number": "224",
+   "peg": "nun hair",
+   "hook": "nun (22) + hair (4): chain both into one image."
+  },
+  {
+   "number": "225",
+   "peg": "nun owl",
+   "hook": "nun (22) + owl (5): chain both into one image."
+  },
+  {
+   "number": "226",
+   "peg": "ninja",
+   "hook": ""
+  },
+  {
+   "number": "227",
+   "peg": "hen neck",
+   "hook": "hen (2) + neck (27): chain both into one image."
+  },
+  {
+   "number": "228",
+   "peg": "honey knife",
+   "hook": "honey (2) + knife (28): chain both into one image."
+  },
+  {
+   "number": "229",
+   "peg": "onion pie",
+   "hook": "onion (22) + pie (9): chain both into one image."
+  },
+  {
+   "number": "230",
+   "peg": "names",
+   "hook": ""
+  },
+  {
+   "number": "231",
+   "peg": "knee mud",
+   "hook": "knee (2) + mud (31): chain both into one image."
+  },
+  {
+   "number": "232",
+   "peg": "new moon",
+   "hook": "new (2) + moon (32): chain both into one image."
+  },
+  {
+   "number": "233",
+   "peg": "gnome home",
+   "hook": "gnome (23) + home (3): chain both into one image."
+  },
+  {
+   "number": "234",
+   "peg": "knee hammer",
+   "hook": "knee (2) + hammer (34): chain both into one image."
+  },
+  {
+   "number": "235",
+   "peg": "animal",
+   "hook": ""
+  },
+  {
+   "number": "236",
+   "peg": "gnome shoe",
+   "hook": "gnome (23) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "237",
+   "peg": "honey mug",
+   "hook": "honey (2) + mug (37): chain both into one image."
+  },
+  {
+   "number": "238",
+   "peg": "gnome wave",
+   "hook": "gnome (23) + wave (8): chain both into one image."
+  },
+  {
+   "number": "239",
+   "peg": "gnome pie",
+   "hook": "gnome (23) + pie (9): chain both into one image."
+  },
+  {
+   "number": "240",
+   "peg": "nurse",
+   "hook": ""
+  },
+  {
+   "number": "241",
+   "peg": "hen yard",
+   "hook": "hen (2) + yard (41): chain both into one image."
+  },
+  {
+   "number": "242",
+   "peg": "neuron",
+   "hook": ""
+  },
+  {
+   "number": "243",
+   "peg": "hen worm",
+   "hook": "hen (2) + worm (43): chain both into one image."
+  },
+  {
+   "number": "244",
+   "peg": "Nero ray",
+   "hook": "Nero (24) + ray (4): chain both into one image."
+  },
+  {
+   "number": "245",
+   "peg": "Nero law",
+   "hook": "Nero (24) + law (5): chain both into one image."
+  },
+  {
+   "number": "246",
+   "peg": "knee rash",
+   "hook": "knee (2) + rash (46): chain both into one image."
+  },
+  {
+   "number": "247",
+   "peg": "hen rock",
+   "hook": "hen (2) + rock (47): chain both into one image."
+  },
+  {
+   "number": "248",
+   "peg": "hen roof",
+   "hook": "hen (2) + roof (48): chain both into one image."
+  },
+  {
+   "number": "249",
+   "peg": "honey robe",
+   "hook": "honey (2) + robe (49): chain both into one image."
+  },
+  {
+   "number": "250",
+   "peg": "nail sea",
+   "hook": "nail (25) + sea (0): chain both into one image."
+  },
+  {
+   "number": "251",
+   "peg": "newlywed",
+   "hook": ""
+  },
+  {
+   "number": "252",
+   "peg": "nylon",
+   "hook": ""
+  },
+  {
+   "number": "253",
+   "peg": "hen lamb",
+   "hook": "hen (2) + lamb (53): chain both into one image."
+  },
+  {
+   "number": "254",
+   "peg": "inhaler",
+   "hook": ""
+  },
+  {
+   "number": "255",
+   "peg": "nail hole",
+   "hook": "nail (25) + hole (5): chain both into one image."
+  },
+  {
+   "number": "256",
+   "peg": "hen leash",
+   "hook": "hen (2) + leash (56): chain both into one image."
+  },
+  {
+   "number": "257",
+   "peg": "hen leg",
+   "hook": "hen (2) + leg (57): chain both into one image."
+  },
+  {
+   "number": "258",
+   "peg": "honey loaf",
+   "hook": "honey (2) + loaf (58): chain both into one image."
+  },
+  {
+   "number": "259",
+   "peg": "honey lip",
+   "hook": "honey (2) + lip (59): chain both into one image."
+  },
+  {
+   "number": "260",
+   "peg": "nachos",
+   "hook": ""
+  },
+  {
+   "number": "261",
+   "peg": "notch tea",
+   "hook": "notch (26) + tea (1): chain both into one image."
+  },
+  {
+   "number": "262",
+   "peg": "engine",
+   "hook": ""
+  },
+  {
+   "number": "263",
+   "peg": "honey jam",
+   "hook": "honey (2) + jam (63): chain both into one image."
+  },
+  {
+   "number": "264",
+   "peg": "honey jar",
+   "hook": "honey (2) + jar (64): chain both into one image."
+  },
+  {
+   "number": "265",
+   "peg": "angel",
+   "hook": ""
+  },
+  {
+   "number": "266",
+   "peg": "notch shoe",
+   "hook": "notch (26) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "267",
+   "peg": "honey jug",
+   "hook": "honey (2) + jug (67): chain both into one image."
+  },
+  {
+   "number": "268",
+   "peg": "anchovy",
+   "hook": ""
+  },
+  {
+   "number": "269",
+   "peg": "hen sheep",
+   "hook": "hen (2) + sheep (69): chain both into one image."
+  },
+  {
+   "number": "270",
+   "peg": "hen goose",
+   "hook": "hen (2) + goose (70): chain both into one image."
+  },
+  {
+   "number": "271",
+   "peg": "necktie",
+   "hook": ""
+  },
+  {
+   "number": "272",
+   "peg": "hen wagon",
+   "hook": "hen (2) + wagon (72): chain both into one image."
+  },
+  {
+   "number": "273",
+   "peg": "honeycomb",
+   "hook": ""
+  },
+  {
+   "number": "274",
+   "peg": "neck hair",
+   "hook": "neck (27) + hair (4): chain both into one image."
+  },
+  {
+   "number": "275",
+   "peg": "nickel",
+   "hook": ""
+  },
+  {
+   "number": "276",
+   "peg": "hen cage",
+   "hook": "hen (2) + cage (76): chain both into one image."
+  },
+  {
+   "number": "277",
+   "peg": "honey cake",
+   "hook": "honey (2) + cake (77): chain both into one image."
+  },
+  {
+   "number": "278",
+   "peg": "neck ivy",
+   "hook": "neck (27) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "279",
+   "peg": "kneecap",
+   "hook": ""
+  },
+  {
+   "number": "280",
+   "peg": "knives",
+   "hook": ""
+  },
+  {
+   "number": "281",
+   "peg": "hen foot",
+   "hook": "hen (2) + foot (81): chain both into one image."
+  },
+  {
+   "number": "282",
+   "peg": "honey oven",
+   "hook": "honey (2) + oven (82): chain both into one image."
+  },
+  {
+   "number": "283",
+   "peg": "knife ham",
+   "hook": "knife (28) + ham (3): chain both into one image."
+  },
+  {
+   "number": "284",
+   "peg": "knife ray",
+   "hook": "knife (28) + ray (4): chain both into one image."
+  },
+  {
+   "number": "285",
+   "peg": "anvil",
+   "hook": ""
+  },
+  {
+   "number": "286",
+   "peg": "honey fudge",
+   "hook": "honey (2) + fudge (86): chain both into one image."
+  },
+  {
+   "number": "287",
+   "peg": "knife hook",
+   "hook": "knife (28) + hook (7): chain both into one image."
+  },
+  {
+   "number": "288",
+   "peg": "knife hoof",
+   "hook": "knife (28) + hoof (8): chain both into one image."
+  },
+  {
+   "number": "289",
+   "peg": "knife pie",
+   "hook": "knife (28) + pie (9): chain both into one image."
+  },
+  {
+   "number": "290",
+   "peg": "honeybees",
+   "hook": ""
+  },
+  {
+   "number": "291",
+   "peg": "honey pot",
+   "hook": "honey (2) + pot (91): chain both into one image."
+  },
+  {
+   "number": "292",
+   "peg": "honey bunny",
+   "hook": "honey (2) + bunny (92): chain both into one image."
+  },
+  {
+   "number": "293",
+   "peg": "knob Ma",
+   "hook": "knob (29) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "294",
+   "peg": "honey bear",
+   "hook": "honey (2) + bear (94): chain both into one image."
+  },
+  {
+   "number": "295",
+   "peg": "nebula",
+   "hook": ""
+  },
+  {
+   "number": "296",
+   "peg": "honey peach",
+   "hook": "honey (2) + peach (96): chain both into one image."
+  },
+  {
+   "number": "297",
+   "peg": "hen pig",
+   "hook": "hen (2) + pig (97): chain both into one image."
+  },
+  {
+   "number": "298",
+   "peg": "knob ivy",
+   "hook": "knob (29) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "299",
+   "peg": "honey puppy",
+   "hook": "honey (2) + puppy (99): chain both into one image."
+  },
+  {
+   "number": "300",
+   "peg": "moses",
+   "hook": "M-S-S: Moses parts the sea."
+  },
+  {
+   "number": "301",
+   "peg": "mast",
+   "hook": ""
+  },
+  {
+   "number": "302",
+   "peg": "mouse Noah",
+   "hook": "mouse (30) + Noah (2): chain both into one image."
+  },
+  {
+   "number": "303",
+   "peg": "museum",
+   "hook": ""
+  },
+  {
+   "number": "304",
+   "peg": "mouse ear",
+   "hook": "mouse (30) + ear (4): chain both into one image."
+  },
+  {
+   "number": "305",
+   "peg": "missile",
+   "hook": ""
+  },
+  {
+   "number": "306",
+   "peg": "massage",
+   "hook": ""
+  },
+  {
+   "number": "307",
+   "peg": "mask",
+   "hook": ""
+  },
+  {
+   "number": "308",
+   "peg": "mouse ivy",
+   "hook": "mouse (30) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "309",
+   "peg": "ham soup",
+   "hook": "ham (3) + soup (09): chain both into one image."
+  },
+  {
+   "number": "310",
+   "peg": "moths",
+   "hook": ""
+  },
+  {
+   "number": "311",
+   "peg": "maid hat",
+   "hook": "maid (31) + hat (1): chain both into one image."
+  },
+  {
+   "number": "312",
+   "peg": "mitten",
+   "hook": ""
+  },
+  {
+   "number": "313",
+   "peg": "modem",
+   "hook": ""
+  },
+  {
+   "number": "314",
+   "peg": "matter",
+   "hook": "M-T-R: pi, all the matter in the universe."
+  },
+  {
+   "number": "315",
+   "peg": "medal",
+   "hook": ""
+  },
+  {
+   "number": "316",
+   "peg": "mouthwash",
+   "hook": ""
+  },
+  {
+   "number": "317",
+   "peg": "medic",
+   "hook": ""
+  },
+  {
+   "number": "318",
+   "peg": "midwife",
+   "hook": ""
+  },
+  {
+   "number": "319",
+   "peg": "mud pie",
+   "hook": "mud (31) + pie (9): chain both into one image."
+  },
+  {
+   "number": "320",
+   "peg": "moons",
+   "hook": ""
+  },
+  {
+   "number": "321",
+   "peg": "mint",
+   "hook": ""
+  },
+  {
+   "number": "322",
+   "peg": "ham onion",
+   "hook": "ham (3) + onion (22): chain both into one image."
+  },
+  {
+   "number": "323",
+   "peg": "moon Ma",
+   "hook": "moon (32) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "324",
+   "peg": "manor",
+   "hook": ""
+  },
+  {
+   "number": "325",
+   "peg": "manhole",
+   "hook": ""
+  },
+  {
+   "number": "326",
+   "peg": "moon shoe",
+   "hook": "moon (32) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "327",
+   "peg": "moon cow",
+   "hook": "moon (32) + cow (7): chain both into one image."
+  },
+  {
+   "number": "328",
+   "peg": "ham knife",
+   "hook": "ham (3) + knife (28): chain both into one image."
+  },
+  {
+   "number": "329",
+   "peg": "moon pie",
+   "hook": "moon (32) + pie (9): chain both into one image."
+  },
+  {
+   "number": "330",
+   "peg": "mums",
+   "hook": ""
+  },
+  {
+   "number": "331",
+   "peg": "mammoth",
+   "hook": ""
+  },
+  {
+   "number": "332",
+   "peg": "mummy Noah",
+   "hook": "mummy (33) + Noah (2): chain both into one image."
+  },
+  {
+   "number": "333",
+   "peg": "Ma mama",
+   "hook": "M-M-M: three hums of comfort."
+  },
+  {
+   "number": "334",
+   "peg": "mummy hair",
+   "hook": "mummy (33) + hair (4): chain both into one image."
+  },
+  {
+   "number": "335",
+   "peg": "ham meal",
+   "hook": "ham (3) + meal (35): chain both into one image."
+  },
+  {
+   "number": "336",
+   "peg": "mummy shoe",
+   "hook": "mummy (33) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "337",
+   "peg": "mummy key",
+   "hook": "mummy (33) + key (7): chain both into one image."
+  },
+  {
+   "number": "338",
+   "peg": "home movie",
+   "hook": "home (3) + movie (38): chain both into one image."
+  },
+  {
+   "number": "339",
+   "peg": "mummy pie",
+   "hook": "mummy (33) + pie (9): chain both into one image."
+  },
+  {
+   "number": "340",
+   "peg": "mowers",
+   "hook": ""
+  },
+  {
+   "number": "341",
+   "peg": "hammer head",
+   "hook": "hammer (34) + head (1): chain both into one image."
+  },
+  {
+   "number": "342",
+   "peg": "marina",
+   "hook": ""
+  },
+  {
+   "number": "343",
+   "peg": "home room",
+   "hook": "home (3) + room (43): chain both into one image."
+  },
+  {
+   "number": "344",
+   "peg": "mirror",
+   "hook": ""
+  },
+  {
+   "number": "345",
+   "peg": "mural",
+   "hook": ""
+  },
+  {
+   "number": "346",
+   "peg": "marsh",
+   "hook": ""
+  },
+  {
+   "number": "347",
+   "peg": "homework",
+   "hook": ""
+  },
+  {
+   "number": "348",
+   "peg": "home roof",
+   "hook": "home (3) + roof (48): chain both into one image."
+  },
+  {
+   "number": "349",
+   "peg": "mower pie",
+   "hook": "mower (34) + pie (9): chain both into one image."
+  },
+  {
+   "number": "350",
+   "peg": "mules",
+   "hook": ""
+  },
+  {
+   "number": "351",
+   "peg": "mallet",
+   "hook": ""
+  },
+  {
+   "number": "352",
+   "peg": "melon",
+   "hook": ""
+  },
+  {
+   "number": "353",
+   "peg": "mule Ma",
+   "hook": "mule (35) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "354",
+   "peg": "molar",
+   "hook": ""
+  },
+  {
+   "number": "355",
+   "peg": "molehill",
+   "hook": ""
+  },
+  {
+   "number": "356",
+   "peg": "mulch",
+   "hook": ""
+  },
+  {
+   "number": "357",
+   "peg": "milk",
+   "hook": ""
+  },
+  {
+   "number": "358",
+   "peg": "mule hoof",
+   "hook": "mule (35) + hoof (8): chain both into one image."
+  },
+  {
+   "number": "359",
+   "peg": "mule pie",
+   "hook": "mule (35) + pie (9): chain both into one image."
+  },
+  {
+   "number": "360",
+   "peg": "ham cheese",
+   "hook": "ham (3) + cheese (60): chain both into one image."
+  },
+  {
+   "number": "361",
+   "peg": "machete",
+   "hook": ""
+  },
+  {
+   "number": "362",
+   "peg": "machine",
+   "hook": ""
+  },
+  {
+   "number": "363",
+   "peg": "home gym",
+   "hook": "home (3) + gym (63): chain both into one image."
+  },
+  {
+   "number": "364",
+   "peg": "home shower",
+   "hook": "home (3) + shower (64): chain both into one image."
+  },
+  {
+   "number": "365",
+   "peg": "mesh hole",
+   "hook": "M-Sh-L: a hole torn in the mesh fence."
+  },
+  {
+   "number": "366",
+   "peg": "match shoe",
+   "hook": "match (36) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "367",
+   "peg": "match key",
+   "hook": "match (36) + key (7): chain both into one image."
+  },
+  {
+   "number": "368",
+   "peg": "home chef",
+   "hook": "home (3) + chef (68): chain both into one image."
+  },
+  {
+   "number": "369",
+   "peg": "match pie",
+   "hook": "match (36) + pie (9): chain both into one image."
+  },
+  {
+   "number": "370",
+   "peg": "hammocks",
+   "hook": ""
+  },
+  {
+   "number": "371",
+   "peg": "maggot",
+   "hook": ""
+  },
+  {
+   "number": "372",
+   "peg": "mahogany",
+   "hook": ""
+  },
+  {
+   "number": "373",
+   "peg": "magma",
+   "hook": ""
+  },
+  {
+   "number": "374",
+   "peg": "mug ray",
+   "hook": "mug (37) + ray (4): chain both into one image."
+  },
+  {
+   "number": "375",
+   "peg": "mug law",
+   "hook": "mug (37) + law (5): chain both into one image."
+  },
+  {
+   "number": "376",
+   "peg": "mug shoe",
+   "hook": "mug (37) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "377",
+   "peg": "mug key",
+   "hook": "mug (37) + key (7): chain both into one image."
+  },
+  {
+   "number": "378",
+   "peg": "mug ivy",
+   "hook": "mug (37) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "379",
+   "peg": "makeup",
+   "hook": ""
+  },
+  {
+   "number": "380",
+   "peg": "movie house",
+   "hook": "movie (38) + house (0): chain both into one image."
+  },
+  {
+   "number": "381",
+   "peg": "home video",
+   "hook": "home (3) + video (81): chain both into one image."
+  },
+  {
+   "number": "382",
+   "peg": "muffin",
+   "hook": ""
+  },
+  {
+   "number": "383",
+   "peg": "movie Ma",
+   "hook": "movie (38) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "384",
+   "peg": "home fire",
+   "hook": "home (3) + fire (84): chain both into one image."
+  },
+  {
+   "number": "385",
+   "peg": "movie law",
+   "hook": "movie (38) + law (5): chain both into one image."
+  },
+  {
+   "number": "386",
+   "peg": "movie shoe",
+   "hook": "movie (38) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "387",
+   "peg": "movie key",
+   "hook": "movie (38) + key (7): chain both into one image."
+  },
+  {
+   "number": "388",
+   "peg": "movie ivy",
+   "hook": "movie (38) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "389",
+   "peg": "movie pie",
+   "hook": "movie (38) + pie (9): chain both into one image."
+  },
+  {
+   "number": "390",
+   "peg": "maps",
+   "hook": ""
+  },
+  {
+   "number": "391",
+   "peg": "mop head",
+   "hook": "mop (39) + head (1): chain both into one image."
+  },
+  {
+   "number": "392",
+   "peg": "ham bone",
+   "hook": "ham (3) + bone (92): chain both into one image."
+  },
+  {
+   "number": "393",
+   "peg": "map home",
+   "hook": "map (39) + home (3): chain both into one image."
+  },
+  {
+   "number": "394",
+   "peg": "umpire",
+   "hook": ""
+  },
+  {
+   "number": "395",
+   "peg": "maple",
+   "hook": ""
+  },
+  {
+   "number": "396",
+   "peg": "map shoe",
+   "hook": "map (39) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "397",
+   "peg": "map key",
+   "hook": "map (39) + key (7): chain both into one image."
+  },
+  {
+   "number": "398",
+   "peg": "map ivy",
+   "hook": "map (39) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "399",
+   "peg": "map pie",
+   "hook": "map (39) + pie (9): chain both into one image."
+  },
+  {
+   "number": "400",
+   "peg": "horses",
+   "hook": ""
+  },
+  {
+   "number": "401",
+   "peg": "roast",
+   "hook": ""
+  },
+  {
+   "number": "402",
+   "peg": "raisin",
+   "hook": ""
+  },
+  {
+   "number": "403",
+   "peg": "horse home",
+   "hook": "horse (40) + home (3): chain both into one image."
+  },
+  {
+   "number": "404",
+   "peg": "razor",
+   "hook": "R-S-R: a straight razor rasps twice."
+  },
+  {
+   "number": "405",
+   "peg": "aerosol",
+   "hook": ""
+  },
+  {
+   "number": "406",
+   "peg": "horseshoe",
+   "hook": ""
+  },
+  {
+   "number": "407",
+   "peg": "rose key",
+   "hook": "rose (40) + key (7): chain both into one image."
+  },
+  {
+   "number": "408",
+   "peg": "horse hoof",
+   "hook": "horse (40) + hoof (8): chain both into one image."
+  },
+  {
+   "number": "409",
+   "peg": "recipe",
+   "hook": ""
+  },
+  {
+   "number": "410",
+   "peg": "raids",
+   "hook": ""
+  },
+  {
+   "number": "411",
+   "peg": "redwood",
+   "hook": ""
+  },
+  {
+   "number": "412",
+   "peg": "warden",
+   "hook": ""
+  },
+  {
+   "number": "413",
+   "peg": "radio ham",
+   "hook": "radio (41) + ham (3): chain both into one image."
+  },
+  {
+   "number": "414",
+   "peg": "rudder",
+   "hook": ""
+  },
+  {
+   "number": "415",
+   "peg": "rattle",
+   "hook": ""
+  },
+  {
+   "number": "416",
+   "peg": "radish",
+   "hook": ""
+  },
+  {
+   "number": "417",
+   "peg": "ear tag",
+   "hook": "ear (4) + tag (17): chain both into one image."
+  },
+  {
+   "number": "418",
+   "peg": "radio wave",
+   "hook": "radio (41) + wave (8): chain both into one image."
+  },
+  {
+   "number": "419",
+   "peg": "rat pie",
+   "hook": "rat (41) + pie (9): chain both into one image."
+  },
+  {
+   "number": "420",
+   "peg": "ranis",
+   "hook": ""
+  },
+  {
+   "number": "421",
+   "peg": "hornet",
+   "hook": ""
+  },
+  {
+   "number": "422",
+   "peg": "rain Noah",
+   "hook": "rain (42) + Noah (2): chain both into one image."
+  },
+  {
+   "number": "423",
+   "peg": "rain Ma",
+   "hook": "rain (42) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "424",
+   "peg": "runner",
+   "hook": ""
+  },
+  {
+   "number": "425",
+   "peg": "horn owl",
+   "hook": "horn (42) + owl (5): chain both into one image."
+  },
+  {
+   "number": "426",
+   "peg": "orange",
+   "hook": ""
+  },
+  {
+   "number": "427",
+   "peg": "iron hook",
+   "hook": "iron (42) + hook (7): chain both into one image."
+  },
+  {
+   "number": "428",
+   "peg": "rhino hoof",
+   "hook": "rhino (42) + hoof (8): chain both into one image."
+  },
+  {
+   "number": "429",
+   "peg": "rainbow",
+   "hook": ""
+  },
+  {
+   "number": "430",
+   "peg": "rams",
+   "hook": ""
+  },
+  {
+   "number": "431",
+   "peg": "hermit",
+   "hook": ""
+  },
+  {
+   "number": "432",
+   "peg": "ram Noah",
+   "hook": "ram (43) + Noah (2): chain both into one image."
+  },
+  {
+   "number": "433",
+   "peg": "ram Ma",
+   "hook": "ram (43) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "434",
+   "peg": "armor",
+   "hook": ""
+  },
+  {
+   "number": "435",
+   "peg": "airmail",
+   "hook": ""
+  },
+  {
+   "number": "436",
+   "peg": "army shoe",
+   "hook": "army (43) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "437",
+   "peg": "room key",
+   "hook": "room (43) + key (7): chain both into one image."
+  },
+  {
+   "number": "438",
+   "peg": "earmuff",
+   "hook": ""
+  },
+  {
+   "number": "439",
+   "peg": "ramp",
+   "hook": ""
+  },
+  {
+   "number": "440",
+   "peg": "rowers",
+   "hook": ""
+  },
+  {
+   "number": "441",
+   "peg": "rower tea",
+   "hook": "rower (44) + tea (1): chain both into one image."
+  },
+  {
+   "number": "442",
+   "peg": "ear horn",
+   "hook": "ear (4) + horn (42): chain both into one image."
+  },
+  {
+   "number": "443",
+   "peg": "ear worm",
+   "hook": "ear (4) + worm (43): chain both into one image."
+  },
+  {
+   "number": "444",
+   "peg": "roarer",
+   "hook": "R-R-R: a roarer at full throat."
+  },
+  {
+   "number": "445",
+   "peg": "rower law",
+   "hook": "rower (44) + law (5): chain both into one image."
+  },
+  {
+   "number": "446",
+   "peg": "rower shoe",
+   "hook": "rower (44) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "447",
+   "peg": "rower key",
+   "hook": "rower (44) + key (7): chain both into one image."
+  },
+  {
+   "number": "448",
+   "peg": "rower ivy",
+   "hook": "rower (44) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "449",
+   "peg": "rower pie",
+   "hook": "rower (44) + pie (9): chain both into one image."
+  },
+  {
+   "number": "450",
+   "peg": "rolls",
+   "hook": ""
+  },
+  {
+   "number": "451",
+   "peg": "roulette",
+   "hook": ""
+  },
+  {
+   "number": "452",
+   "peg": "hair line",
+   "hook": "hair (4) + line (52): chain both into one image."
+  },
+  {
+   "number": "453",
+   "peg": "heirloom",
+   "hook": ""
+  },
+  {
+   "number": "454",
+   "peg": "ruler",
+   "hook": ""
+  },
+  {
+   "number": "455",
+   "peg": "rail wheel",
+   "hook": "rail (45) + wheel (5): chain both into one image."
+  },
+  {
+   "number": "456",
+   "peg": "rail shoe",
+   "hook": "rail (45) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "457",
+   "peg": "relic",
+   "hook": ""
+  },
+  {
+   "number": "458",
+   "peg": "werewolf",
+   "hook": ""
+  },
+  {
+   "number": "459",
+   "peg": "ear lobe",
+   "hook": "ear (4) + lobe (59): chain both into one image."
+  },
+  {
+   "number": "460",
+   "peg": "arches",
+   "hook": ""
+  },
+  {
+   "number": "461",
+   "peg": "rash tea",
+   "hook": "rash (46) + tea (1): chain both into one image."
+  },
+  {
+   "number": "462",
+   "peg": "urchin",
+   "hook": ""
+  },
+  {
+   "number": "463",
+   "peg": "ear gem",
+   "hook": "ear (4) + gem (63): chain both into one image."
+  },
+  {
+   "number": "464",
+   "peg": "archer",
+   "hook": ""
+  },
+  {
+   "number": "465",
+   "peg": "hair gel",
+   "hook": "hair (4) + gel (65): chain both into one image."
+  },
+  {
+   "number": "466",
+   "peg": "arch shoe",
+   "hook": "arch (46) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "467",
+   "peg": "arch key",
+   "hook": "arch (46) + key (7): chain both into one image."
+  },
+  {
+   "number": "468",
+   "peg": "rash ivy",
+   "hook": "rash (46) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "469",
+   "peg": "warship",
+   "hook": ""
+  },
+  {
+   "number": "470",
+   "peg": "rocks",
+   "hook": ""
+  },
+  {
+   "number": "471",
+   "peg": "rocket",
+   "hook": ""
+  },
+  {
+   "number": "472",
+   "peg": "raccoon",
+   "hook": ""
+  },
+  {
+   "number": "473",
+   "peg": "origami",
+   "hook": ""
+  },
+  {
+   "number": "474",
+   "peg": "rocker",
+   "hook": ""
+  },
+  {
+   "number": "475",
+   "peg": "rock wall",
+   "hook": "rock (47) + wall (5): chain both into one image."
+  },
+  {
+   "number": "476",
+   "peg": "wreckage",
+   "hook": ""
+  },
+  {
+   "number": "477",
+   "peg": "rock key",
+   "hook": "rock (47) + key (7): chain both into one image."
+  },
+  {
+   "number": "478",
+   "peg": "ear cuff",
+   "hook": "ear (4) + cuff (78): chain both into one image."
+  },
+  {
+   "number": "479",
+   "peg": "rugby",
+   "hook": ""
+  },
+  {
+   "number": "480",
+   "peg": "roofs",
+   "hook": ""
+  },
+  {
+   "number": "481",
+   "peg": "raft",
+   "hook": ""
+  },
+  {
+   "number": "482",
+   "peg": "raven",
+   "hook": ""
+  },
+  {
+   "number": "483",
+   "peg": "hair foam",
+   "hook": "hair (4) + foam (83): chain both into one image."
+  },
+  {
+   "number": "484",
+   "peg": "river",
+   "hook": ""
+  },
+  {
+   "number": "485",
+   "peg": "rifle",
+   "hook": ""
+  },
+  {
+   "number": "486",
+   "peg": "roof shoe",
+   "hook": "roof (48) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "487",
+   "peg": "roof key",
+   "hook": "roof (48) + key (7): chain both into one image."
+  },
+  {
+   "number": "488",
+   "peg": "roof ivy",
+   "hook": "roof (48) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "489",
+   "peg": "roof pie",
+   "hook": "roof (48) + pie (9): chain both into one image."
+  },
+  {
+   "number": "490",
+   "peg": "ropes",
+   "hook": ""
+  },
+  {
+   "number": "491",
+   "peg": "rabbit",
+   "hook": ""
+  },
+  {
+   "number": "492",
+   "peg": "ribbon",
+   "hook": ""
+  },
+  {
+   "number": "493",
+   "peg": "rope Ma",
+   "hook": "rope (49) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "494",
+   "peg": "robber",
+   "hook": ""
+  },
+  {
+   "number": "495",
+   "peg": "rubble",
+   "hook": ""
+  },
+  {
+   "number": "496",
+   "peg": "rubbish",
+   "hook": ""
+  },
+  {
+   "number": "497",
+   "peg": "airbag",
+   "hook": ""
+  },
+  {
+   "number": "498",
+   "peg": "rope ivy",
+   "hook": "rope (49) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "499",
+   "peg": "rope pie",
+   "hook": "rope (49) + pie (9): chain both into one image."
+  },
+  {
+   "number": "500",
+   "peg": "lassos",
+   "hook": "L-S-S: a cowboy's loops."
+  },
+  {
+   "number": "501",
+   "peg": "hillside",
+   "hook": ""
+  },
+  {
+   "number": "502",
+   "peg": "owl snow",
+   "hook": "owl (5) + snow (02): chain both into one image."
+  },
+  {
+   "number": "503",
+   "peg": "lace Ma",
+   "hook": "lace (50) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "504",
+   "peg": "laser",
+   "hook": ""
+  },
+  {
+   "number": "505",
+   "peg": "lace law",
+   "hook": "lace (50) + law (5): chain both into one image."
+  },
+  {
+   "number": "506",
+   "peg": "eel sushi",
+   "hook": "eel (5) + sushi (06): chain both into one image."
+  },
+  {
+   "number": "507",
+   "peg": "hole sock",
+   "hook": "hole (5) + sock (07): chain both into one image."
+  },
+  {
+   "number": "508",
+   "peg": "lace ivy",
+   "hook": "lace (50) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "509",
+   "peg": "eel soup",
+   "hook": "eel (5) + soup (09): chain both into one image."
+  },
+  {
+   "number": "510",
+   "peg": "lids",
+   "hook": ""
+  },
+  {
+   "number": "511",
+   "peg": "low tide",
+   "hook": "low (5) + tide (11): chain both into one image."
+  },
+  {
+   "number": "512",
+   "peg": "lad Noah",
+   "hook": "lad (51) + Noah (2): chain both into one image."
+  },
+  {
+   "number": "513",
+   "peg": "lad Ma",
+   "hook": "lad (51) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "514",
+   "peg": "ladder",
+   "hook": ""
+  },
+  {
+   "number": "515",
+   "peg": "ladle",
+   "hook": ""
+  },
+  {
+   "number": "516",
+   "peg": "lad shoe",
+   "hook": "lad (51) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "517",
+   "peg": "wallet key",
+   "hook": "wallet (51) + key (7): chain both into one image."
+  },
+  {
+   "number": "518",
+   "peg": "lad ivy",
+   "hook": "lad (51) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "519",
+   "peg": "hilltop",
+   "hook": ""
+  },
+  {
+   "number": "520",
+   "peg": "lions",
+   "hook": ""
+  },
+  {
+   "number": "521",
+   "peg": "walnut",
+   "hook": ""
+  },
+  {
+   "number": "522",
+   "peg": "linen",
+   "hook": ""
+  },
+  {
+   "number": "523",
+   "peg": "lion Ma",
+   "hook": "lion (52) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "524",
+   "peg": "eyeliner",
+   "hook": ""
+  },
+  {
+   "number": "525",
+   "peg": "lion law",
+   "hook": "lion (52) + law (5): chain both into one image."
+  },
+  {
+   "number": "526",
+   "peg": "lunch",
+   "hook": ""
+  },
+  {
+   "number": "527",
+   "peg": "line hook",
+   "hook": "line (52) + hook (7): chain both into one image."
+  },
+  {
+   "number": "528",
+   "peg": "lion ivy",
+   "hook": "lion (52) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "529",
+   "peg": "lineup",
+   "hook": ""
+  },
+  {
+   "number": "530",
+   "peg": "lambs",
+   "hook": ""
+  },
+  {
+   "number": "531",
+   "peg": "helmet",
+   "hook": ""
+  },
+  {
+   "number": "532",
+   "peg": "lemon",
+   "hook": ""
+  },
+  {
+   "number": "533",
+   "peg": "lamb Ma",
+   "hook": "lamb (53) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "534",
+   "peg": "lamb ear",
+   "hook": "lamb (53) + ear (4): chain both into one image."
+  },
+  {
+   "number": "535",
+   "peg": "owl mail",
+   "hook": "owl (5) + mail (35): chain both into one image."
+  },
+  {
+   "number": "536",
+   "peg": "lamb shoe",
+   "hook": "lamb (53) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "537",
+   "peg": "lamb key",
+   "hook": "lamb (53) + key (7): chain both into one image."
+  },
+  {
+   "number": "538",
+   "peg": "lamb hoof",
+   "hook": "lamb (53) + hoof (8): chain both into one image."
+  },
+  {
+   "number": "539",
+   "peg": "lamp",
+   "hook": ""
+  },
+  {
+   "number": "540",
+   "peg": "lyres",
+   "hook": ""
+  },
+  {
+   "number": "541",
+   "peg": "lard",
+   "hook": ""
+  },
+  {
+   "number": "542",
+   "peg": "lure Noah",
+   "hook": "lure (54) + Noah (2): chain both into one image."
+  },
+  {
+   "number": "543",
+   "peg": "alarm",
+   "hook": ""
+  },
+  {
+   "number": "544",
+   "peg": "lure ray",
+   "hook": "lure (54) + ray (4): chain both into one image."
+  },
+  {
+   "number": "545",
+   "peg": "laurel",
+   "hook": ""
+  },
+  {
+   "number": "546",
+   "peg": "lure shoe",
+   "hook": "lure (54) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "547",
+   "peg": "oil rig",
+   "hook": "oil (5) + rig (47): chain both into one image."
+  },
+  {
+   "number": "548",
+   "peg": "larva",
+   "hook": ""
+  },
+  {
+   "number": "549",
+   "peg": "lure pie",
+   "hook": "lure (54) + pie (9): chain both into one image."
+  },
+  {
+   "number": "550",
+   "peg": "lulls",
+   "hook": ""
+  },
+  {
+   "number": "551",
+   "peg": "lily tea",
+   "hook": "lily (55) + tea (1): chain both into one image."
+  },
+  {
+   "number": "552",
+   "peg": "lily Noah",
+   "hook": "lily (55) + Noah (2): chain both into one image."
+  },
+  {
+   "number": "553",
+   "peg": "owl limb",
+   "hook": "owl (5) + limb (53): chain both into one image."
+  },
+  {
+   "number": "554",
+   "peg": "lily hair",
+   "hook": "lily (55) + hair (4): chain both into one image."
+  },
+  {
+   "number": "555",
+   "peg": "lily law",
+   "hook": "L-L-L: lilies laid on the law book."
+  },
+  {
+   "number": "556",
+   "peg": "owl ledge",
+   "hook": "owl (5) + ledge (56): chain both into one image."
+  },
+  {
+   "number": "557",
+   "peg": "lilac",
+   "hook": ""
+  },
+  {
+   "number": "558",
+   "peg": "lily ivy",
+   "hook": "lily (55) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "559",
+   "peg": "lullaby",
+   "hook": ""
+  },
+  {
+   "number": "560",
+   "peg": "leeches",
+   "hook": ""
+  },
+  {
+   "number": "561",
+   "peg": "leash tea",
+   "hook": "leash (56) + tea (1): chain both into one image."
+  },
+  {
+   "number": "562",
+   "peg": "leash Noah",
+   "hook": "leash (56) + Noah (2): chain both into one image."
+  },
+  {
+   "number": "563",
+   "peg": "leash Ma",
+   "hook": "leash (56) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "564",
+   "peg": "wheelchair",
+   "hook": ""
+  },
+  {
+   "number": "565",
+   "peg": "eel jelly",
+   "hook": "eel (5) + jelly (65): chain both into one image."
+  },
+  {
+   "number": "566",
+   "peg": "owl judge",
+   "hook": "owl (5) + judge (66): chain both into one image."
+  },
+  {
+   "number": "567",
+   "peg": "owl chick",
+   "hook": "owl (5) + chick (67): chain both into one image."
+  },
+  {
+   "number": "568",
+   "peg": "leash ivy",
+   "hook": "leash (56) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "569",
+   "peg": "leash pie",
+   "hook": "leash (56) + pie (9): chain both into one image."
+  },
+  {
+   "number": "570",
+   "peg": "locks",
+   "hook": ""
+  },
+  {
+   "number": "571",
+   "peg": "locket",
+   "hook": ""
+  },
+  {
+   "number": "572",
+   "peg": "lagoon",
+   "hook": ""
+  },
+  {
+   "number": "573",
+   "peg": "leg ham",
+   "hook": "leg (57) + ham (3): chain both into one image."
+  },
+  {
+   "number": "574",
+   "peg": "locker",
+   "hook": ""
+  },
+  {
+   "number": "575",
+   "peg": "owl claw",
+   "hook": "owl (5) + claw (75): chain both into one image."
+  },
+  {
+   "number": "576",
+   "peg": "luggage",
+   "hook": ""
+  },
+  {
+   "number": "577",
+   "peg": "lake key",
+   "hook": "lake (57) + key (7): chain both into one image."
+  },
+  {
+   "number": "578",
+   "peg": "lake wave",
+   "hook": "lake (57) + wave (8): chain both into one image."
+  },
+  {
+   "number": "579",
+   "peg": "lake pie",
+   "hook": "lake (57) + pie (9): chain both into one image."
+  },
+  {
+   "number": "580",
+   "peg": "leafs",
+   "hook": ""
+  },
+  {
+   "number": "581",
+   "peg": "hayloft",
+   "hook": ""
+  },
+  {
+   "number": "582",
+   "peg": "wall phone",
+   "hook": "wall (5) + phone (82): chain both into one image."
+  },
+  {
+   "number": "583",
+   "peg": "leaf Ma",
+   "hook": "leaf (58) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "584",
+   "peg": "lever",
+   "hook": ""
+  },
+  {
+   "number": "585",
+   "peg": "olive oil",
+   "hook": "olive (58) + oil (5): chain both into one image."
+  },
+  {
+   "number": "586",
+   "peg": "leaf shoe",
+   "hook": "leaf (58) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "587",
+   "peg": "leaf key",
+   "hook": "leaf (58) + key (7): chain both into one image."
+  },
+  {
+   "number": "588",
+   "peg": "leaf ivy",
+   "hook": "leaf (58) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "589",
+   "peg": "wolf boy",
+   "hook": "wolf (58) + boy (9): chain both into one image."
+  },
+  {
+   "number": "590",
+   "peg": "lobes",
+   "hook": ""
+  },
+  {
+   "number": "591",
+   "peg": "wall bed",
+   "hook": "wall (5) + bed (91): chain both into one image."
+  },
+  {
+   "number": "592",
+   "peg": "oil pan",
+   "hook": "oil (5) + pan (92): chain both into one image."
+  },
+  {
+   "number": "593",
+   "peg": "album",
+   "hook": ""
+  },
+  {
+   "number": "594",
+   "peg": "wheelbarrow",
+   "hook": ""
+  },
+  {
+   "number": "595",
+   "peg": "label",
+   "hook": ""
+  },
+  {
+   "number": "596",
+   "peg": "lip shoe",
+   "hook": "lip (59) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "597",
+   "peg": "owl book",
+   "hook": "owl (5) + book (97): chain both into one image."
+  },
+  {
+   "number": "598",
+   "peg": "lip ivy",
+   "hook": "lip (59) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "599",
+   "peg": "owl baby",
+   "hook": "owl (5) + baby (99): chain both into one image."
+  },
+  {
+   "number": "600",
+   "peg": "shoe sauce",
+   "hook": "Sh-S-S: sauce poured into a shoe."
+  },
+  {
+   "number": "601",
+   "peg": "chest",
+   "hook": ""
+  },
+  {
+   "number": "602",
+   "peg": "cheese Noah",
+   "hook": "cheese (60) + Noah (2): chain both into one image."
+  },
+  {
+   "number": "603",
+   "peg": "cheese ham",
+   "hook": "cheese (60) + ham (3): chain both into one image."
+  },
+  {
+   "number": "604",
+   "peg": "cheese ray",
+   "hook": "cheese (60) + ray (4): chain both into one image."
+  },
+  {
+   "number": "605",
+   "peg": "chisel",
+   "hook": ""
+  },
+  {
+   "number": "606",
+   "peg": "cheese shoe",
+   "hook": "cheese (60) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "607",
+   "peg": "shoe sock",
+   "hook": "shoe (6) + sock (07): chain both into one image."
+  },
+  {
+   "number": "608",
+   "peg": "cheese ivy",
+   "hook": "cheese (60) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "609",
+   "peg": "cheese pie",
+   "hook": "cheese (60) + pie (9): chain both into one image."
+  },
+  {
+   "number": "610",
+   "peg": "cheetahs",
+   "hook": ""
+  },
+  {
+   "number": "611",
+   "peg": "shootout",
+   "hook": ""
+  },
+  {
+   "number": "612",
+   "peg": "sheet Noah",
+   "hook": "sheet (61) + Noah (2): chain both into one image."
+  },
+  {
+   "number": "613",
+   "peg": "sheet Ma",
+   "hook": "sheet (61) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "614",
+   "peg": "chowder",
+   "hook": ""
+  },
+  {
+   "number": "615",
+   "peg": "shuttle",
+   "hook": ""
+  },
+  {
+   "number": "616",
+   "peg": "sheet shoe",
+   "hook": "sheet (61) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "617",
+   "peg": "watchdog",
+   "hook": ""
+  },
+  {
+   "number": "618",
+   "peg": "sheet ivy",
+   "hook": "sheet (61) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "619",
+   "peg": "washtub",
+   "hook": ""
+  },
+  {
+   "number": "620",
+   "peg": "jeans",
+   "hook": ""
+  },
+  {
+   "number": "621",
+   "peg": "giant",
+   "hook": ""
+  },
+  {
+   "number": "622",
+   "peg": "chain Noah",
+   "hook": "chain (62) + Noah (2): chain both into one image."
+  },
+  {
+   "number": "623",
+   "peg": "chain Ma",
+   "hook": "chain (62) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "624",
+   "peg": "chin hair",
+   "hook": "chin (62) + hair (4): chain both into one image."
+  },
+  {
+   "number": "625",
+   "peg": "shoe nail",
+   "hook": "shoe (6) + nail (25): chain both into one image."
+  },
+  {
+   "number": "626",
+   "peg": "chain shoe",
+   "hook": "chain (62) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "627",
+   "peg": "chain hook",
+   "hook": "chain (62) + hook (7): chain both into one image."
+  },
+  {
+   "number": "628",
+   "peg": "chain ivy",
+   "hook": "chain (62) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "629",
+   "peg": "chain pie",
+   "hook": "chain (62) + pie (9): chain both into one image."
+  },
+  {
+   "number": "630",
+   "peg": "gems",
+   "hook": ""
+  },
+  {
+   "number": "631",
+   "peg": "shoe mat",
+   "hook": "shoe (6) + mat (31): chain both into one image."
+  },
+  {
+   "number": "632",
+   "peg": "chimney",
+   "hook": ""
+  },
+  {
+   "number": "633",
+   "peg": "jam Ma",
+   "hook": "jam (63) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "634",
+   "peg": "jam ray",
+   "hook": "jam (63) + ray (4): chain both into one image."
+  },
+  {
+   "number": "635",
+   "peg": "jam law",
+   "hook": "jam (63) + law (5): chain both into one image."
+  },
+  {
+   "number": "636",
+   "peg": "gym shoe",
+   "hook": "gym (63) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "637",
+   "peg": "gem egg",
+   "hook": "gem (63) + egg (7): chain both into one image."
+  },
+  {
+   "number": "638",
+   "peg": "jam ivy",
+   "hook": "jam (63) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "639",
+   "peg": "chimp",
+   "hook": ""
+  },
+  {
+   "number": "640",
+   "peg": "jersey",
+   "hook": ""
+  },
+  {
+   "number": "641",
+   "peg": "shirt",
+   "hook": ""
+  },
+  {
+   "number": "642",
+   "peg": "shoehorn",
+   "hook": ""
+  },
+  {
+   "number": "643",
+   "peg": "showroom",
+   "hook": ""
+  },
+  {
+   "number": "644",
+   "peg": "juror",
+   "hook": ""
+  },
+  {
+   "number": "645",
+   "peg": "shower wall",
+   "hook": "shower (64) + wall (5): chain both into one image."
+  },
+  {
+   "number": "646",
+   "peg": "church",
+   "hook": ""
+  },
+  {
+   "number": "647",
+   "peg": "shark",
+   "hook": ""
+  },
+  {
+   "number": "648",
+   "peg": "giraffe",
+   "hook": ""
+  },
+  {
+   "number": "649",
+   "peg": "shrub",
+   "hook": ""
+  },
+  {
+   "number": "650",
+   "peg": "shoelace",
+   "hook": ""
+  },
+  {
+   "number": "651",
+   "peg": "shield",
+   "hook": ""
+  },
+  {
+   "number": "652",
+   "peg": "jaw line",
+   "hook": "jaw (6) + line (52): chain both into one image."
+  },
+  {
+   "number": "653",
+   "peg": "shell Ma",
+   "hook": "shell (65) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "654",
+   "peg": "jewelry",
+   "hook": ""
+  },
+  {
+   "number": "655",
+   "peg": "jail wall",
+   "hook": "jail (65) + wall (5): chain both into one image."
+  },
+  {
+   "number": "656",
+   "peg": "shell shoe",
+   "hook": "shell (65) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "657",
+   "peg": "jail key",
+   "hook": "jail (65) + key (7): chain both into one image."
+  },
+  {
+   "number": "658",
+   "peg": "shelf",
+   "hook": ""
+  },
+  {
+   "number": "659",
+   "peg": "shell pie",
+   "hook": "shell (65) + pie (9): chain both into one image."
+  },
+  {
+   "number": "660",
+   "peg": "judge sea",
+   "hook": "judge (66) + sea (0): chain both into one image."
+  },
+  {
+   "number": "661",
+   "peg": "judge hat",
+   "hook": "judge (66) + hat (1): chain both into one image."
+  },
+  {
+   "number": "662",
+   "peg": "shoeshine",
+   "hook": ""
+  },
+  {
+   "number": "663",
+   "peg": "judge Ma",
+   "hook": "judge (66) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "664",
+   "peg": "judge hair",
+   "hook": "judge (66) + hair (4): chain both into one image."
+  },
+  {
+   "number": "665",
+   "peg": "judge law",
+   "hook": "judge (66) + law (5): chain both into one image."
+  },
+  {
+   "number": "666",
+   "peg": "cha-cha shoe",
+   "hook": "Ch-Ch-Sh: dance shoes tapping a triple-six beat."
+  },
+  {
+   "number": "667",
+   "peg": "judge key",
+   "hook": "judge (66) + key (7): chain both into one image."
+  },
+  {
+   "number": "668",
+   "peg": "judge ivy",
+   "hook": "judge (66) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "669",
+   "peg": "judge pie",
+   "hook": "judge (66) + pie (9): chain both into one image."
+  },
+  {
+   "number": "670",
+   "peg": "jigsaw",
+   "hook": ""
+  },
+  {
+   "number": "671",
+   "peg": "jacket",
+   "hook": ""
+  },
+  {
+   "number": "672",
+   "peg": "chicken",
+   "hook": ""
+  },
+  {
+   "number": "673",
+   "peg": "shoe gum",
+   "hook": "shoe (6) + gum (73): chain both into one image."
+  },
+  {
+   "number": "674",
+   "peg": "jaguar",
+   "hook": ""
+  },
+  {
+   "number": "675",
+   "peg": "jackal",
+   "hook": ""
+  },
+  {
+   "number": "676",
+   "peg": "chalk shoe",
+   "hook": "chalk (67) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "677",
+   "peg": "chick egg",
+   "hook": "chick (67) + egg (7): chain both into one image."
+  },
+  {
+   "number": "678",
+   "peg": "shockwave",
+   "hook": ""
+  },
+  {
+   "number": "679",
+   "peg": "chalk pie",
+   "hook": "chalk (67) + pie (9): chain both into one image."
+  },
+  {
+   "number": "680",
+   "peg": "chefs",
+   "hook": ""
+  },
+  {
+   "number": "681",
+   "peg": "chef hat",
+   "hook": "chef (68) + hat (1): chain both into one image."
+  },
+  {
+   "number": "682",
+   "peg": "shoe phone",
+   "hook": "shoe (6) + phone (82): chain both into one image."
+  },
+  {
+   "number": "683",
+   "peg": "chef ham",
+   "hook": "chef (68) + ham (3): chain both into one image."
+  },
+  {
+   "number": "684",
+   "peg": "chauffeur",
+   "hook": ""
+  },
+  {
+   "number": "685",
+   "peg": "shovel",
+   "hook": ""
+  },
+  {
+   "number": "686",
+   "peg": "chef shoe",
+   "hook": "chef (68) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "687",
+   "peg": "chef egg",
+   "hook": "chef (68) + egg (7): chain both into one image."
+  },
+  {
+   "number": "688",
+   "peg": "chef ivy",
+   "hook": "chef (68) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "689",
+   "peg": "chef pie",
+   "hook": "chef (68) + pie (9): chain both into one image."
+  },
+  {
+   "number": "690",
+   "peg": "chips",
+   "hook": ""
+  },
+  {
+   "number": "691",
+   "peg": "ship tea",
+   "hook": "ship (69) + tea (1): chain both into one image."
+  },
+  {
+   "number": "692",
+   "peg": "wishbone",
+   "hook": ""
+  },
+  {
+   "number": "693",
+   "peg": "ship Ma",
+   "hook": "ship (69) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "694",
+   "peg": "chopper",
+   "hook": ""
+  },
+  {
+   "number": "695",
+   "peg": "chapel",
+   "hook": ""
+  },
+  {
+   "number": "696",
+   "peg": "ship shoe",
+   "hook": "ship (69) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "697",
+   "peg": "hatchback",
+   "hook": ""
+  },
+  {
+   "number": "698",
+   "peg": "ship wave",
+   "hook": "ship (69) + wave (8): chain both into one image."
+  },
+  {
+   "number": "699",
+   "peg": "shoe puppy",
+   "hook": "shoe (6) + puppy (99): chain both into one image."
+  },
+  {
+   "number": "700",
+   "peg": "kisses",
+   "hook": "K-S-S: a wedding's worth of kisses."
+  },
+  {
+   "number": "701",
+   "peg": "cassette",
+   "hook": ""
+  },
+  {
+   "number": "702",
+   "peg": "casino",
+   "hook": ""
+  },
+  {
+   "number": "703",
+   "peg": "case Ma",
+   "hook": "case (70) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "704",
+   "peg": "case ray",
+   "hook": "case (70) + ray (4): chain both into one image."
+  },
+  {
+   "number": "705",
+   "peg": "gazelle",
+   "hook": ""
+  },
+  {
+   "number": "706",
+   "peg": "egg sushi",
+   "hook": "egg (7) + sushi (06): chain both into one image."
+  },
+  {
+   "number": "707",
+   "peg": "kiosk",
+   "hook": ""
+  },
+  {
+   "number": "708",
+   "peg": "case ivy",
+   "hook": "case (70) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "709",
+   "peg": "gazebo",
+   "hook": ""
+  },
+  {
+   "number": "710",
+   "peg": "cats",
+   "hook": ""
+  },
+  {
+   "number": "711",
+   "peg": "cadet",
+   "hook": ""
+  },
+  {
+   "number": "712",
+   "peg": "kitten",
+   "hook": ""
+  },
+  {
+   "number": "713",
+   "peg": "cat ham",
+   "hook": "cat (71) + ham (3): chain both into one image."
+  },
+  {
+   "number": "714",
+   "peg": "guitar",
+   "hook": ""
+  },
+  {
+   "number": "715",
+   "peg": "kettle",
+   "hook": ""
+  },
+  {
+   "number": "716",
+   "peg": "cottage",
+   "hook": ""
+  },
+  {
+   "number": "717",
+   "peg": "catwalk",
+   "hook": ""
+  },
+  {
+   "number": "718",
+   "peg": "goat hoof",
+   "hook": "goat (71) + hoof (8): chain both into one image."
+  },
+  {
+   "number": "719",
+   "peg": "cat pie",
+   "hook": "cat (71) + pie (9): chain both into one image."
+  },
+  {
+   "number": "720",
+   "peg": "cans",
+   "hook": ""
+  },
+  {
+   "number": "721",
+   "peg": "candy",
+   "hook": ""
+  },
+  {
+   "number": "722",
+   "peg": "cannon",
+   "hook": ""
+  },
+  {
+   "number": "723",
+   "peg": "can ham",
+   "hook": "can (72) + ham (3): chain both into one image."
+  },
+  {
+   "number": "724",
+   "peg": "canary",
+   "hook": ""
+  },
+  {
+   "number": "725",
+   "peg": "kennel",
+   "hook": ""
+  },
+  {
+   "number": "726",
+   "peg": "can shoe",
+   "hook": "can (72) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "727",
+   "peg": "eggnog",
+   "hook": ""
+  },
+  {
+   "number": "728",
+   "peg": "convoy",
+   "hook": ""
+  },
+  {
+   "number": "729",
+   "peg": "canopy",
+   "hook": ""
+  },
+  {
+   "number": "730",
+   "peg": "combs",
+   "hook": ""
+  },
+  {
+   "number": "731",
+   "peg": "comet",
+   "hook": ""
+  },
+  {
+   "number": "732",
+   "peg": "egg man",
+   "hook": "egg (7) + man (32): chain both into one image."
+  },
+  {
+   "number": "733",
+   "peg": "comb Ma",
+   "hook": "comb (73) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "734",
+   "peg": "camera",
+   "hook": ""
+  },
+  {
+   "number": "735",
+   "peg": "camel",
+   "hook": ""
+  },
+  {
+   "number": "736",
+   "peg": "gum shoe",
+   "hook": "gum (73) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "737",
+   "peg": "comic",
+   "hook": ""
+  },
+  {
+   "number": "738",
+   "peg": "comb ivy",
+   "hook": "comb (73) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "739",
+   "peg": "camp",
+   "hook": ""
+  },
+  {
+   "number": "740",
+   "peg": "cars",
+   "hook": ""
+  },
+  {
+   "number": "741",
+   "peg": "carrot",
+   "hook": ""
+  },
+  {
+   "number": "742",
+   "peg": "crown",
+   "hook": ""
+  },
+  {
+   "number": "743",
+   "peg": "cream",
+   "hook": ""
+  },
+  {
+   "number": "744",
+   "peg": "grey hair",
+   "hook": "grey (74) + hair (4): chain both into one image."
+  },
+  {
+   "number": "745",
+   "peg": "gorilla",
+   "hook": ""
+  },
+  {
+   "number": "746",
+   "peg": "garage",
+   "hook": ""
+  },
+  {
+   "number": "747",
+   "peg": "cork",
+   "hook": ""
+  },
+  {
+   "number": "748",
+   "peg": "gravy",
+   "hook": ""
+  },
+  {
+   "number": "749",
+   "peg": "crab",
+   "hook": ""
+  },
+  {
+   "number": "750",
+   "peg": "coals",
+   "hook": ""
+  },
+  {
+   "number": "751",
+   "peg": "cloud",
+   "hook": ""
+  },
+  {
+   "number": "752",
+   "peg": "clown",
+   "hook": ""
+  },
+  {
+   "number": "753",
+   "peg": "clam",
+   "hook": ""
+  },
+  {
+   "number": "754",
+   "peg": "collar",
+   "hook": ""
+  },
+  {
+   "number": "755",
+   "peg": "ukulele",
+   "hook": ""
+  },
+  {
+   "number": "756",
+   "peg": "collage",
+   "hook": ""
+  },
+  {
+   "number": "757",
+   "peg": "clock",
+   "hook": ""
+  },
+  {
+   "number": "758",
+   "peg": "glove",
+   "hook": ""
+  },
+  {
+   "number": "759",
+   "peg": "globe",
+   "hook": ""
+  },
+  {
+   "number": "760",
+   "peg": "cashews",
+   "hook": ""
+  },
+  {
+   "number": "761",
+   "peg": "gadget",
+   "hook": ""
+  },
+  {
+   "number": "762",
+   "peg": "kitchen",
+   "hook": ""
+  },
+  {
+   "number": "763",
+   "peg": "cash Ma",
+   "hook": "cash (76) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "764",
+   "peg": "cashier",
+   "hook": ""
+  },
+  {
+   "number": "765",
+   "peg": "eggshell",
+   "hook": ""
+  },
+  {
+   "number": "766",
+   "peg": "cash shoe",
+   "hook": "cash (76) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "767",
+   "peg": "cage key",
+   "hook": "cage (76) + key (7): chain both into one image."
+  },
+  {
+   "number": "768",
+   "peg": "cash ivy",
+   "hook": "cash (76) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "769",
+   "peg": "ketchup",
+   "hook": ""
+  },
+  {
+   "number": "770",
+   "peg": "cakes",
+   "hook": ""
+  },
+  {
+   "number": "771",
+   "peg": "cockatoo",
+   "hook": ""
+  },
+  {
+   "number": "772",
+   "peg": "cocoon",
+   "hook": ""
+  },
+  {
+   "number": "773",
+   "peg": "cake Ma",
+   "hook": "cake (77) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "774",
+   "peg": "cougar",
+   "hook": ""
+  },
+  {
+   "number": "775",
+   "peg": "gaggle",
+   "hook": ""
+  },
+  {
+   "number": "776",
+   "peg": "cake shoe",
+   "hook": "cake (77) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "777",
+   "peg": "cuckoo key",
+   "hook": "K-K-K: a cuckoo clock key wound three times."
+  },
+  {
+   "number": "778",
+   "peg": "cake ivy",
+   "hook": "cake (77) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "779",
+   "peg": "egg cup",
+   "hook": "egg (7) + cup (79): chain both into one image."
+  },
+  {
+   "number": "780",
+   "peg": "caves",
+   "hook": ""
+  },
+  {
+   "number": "781",
+   "peg": "cave tea",
+   "hook": "cave (78) + tea (1): chain both into one image."
+  },
+  {
+   "number": "782",
+   "peg": "coffin",
+   "hook": ""
+  },
+  {
+   "number": "783",
+   "peg": "egg foam",
+   "hook": "egg (7) + foam (83): chain both into one image."
+  },
+  {
+   "number": "784",
+   "peg": "caviar",
+   "hook": ""
+  },
+  {
+   "number": "785",
+   "peg": "cave law",
+   "hook": "cave (78) + law (5): chain both into one image."
+  },
+  {
+   "number": "786",
+   "peg": "cave shoe",
+   "hook": "cave (78) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "787",
+   "peg": "cave key",
+   "hook": "cave (78) + key (7): chain both into one image."
+  },
+  {
+   "number": "788",
+   "peg": "cave ivy",
+   "hook": "cave (78) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "789",
+   "peg": "cave pie",
+   "hook": "cave (78) + pie (9): chain both into one image."
+  },
+  {
+   "number": "790",
+   "peg": "capes",
+   "hook": ""
+  },
+  {
+   "number": "791",
+   "peg": "keypad",
+   "hook": ""
+  },
+  {
+   "number": "792",
+   "peg": "cabin",
+   "hook": ""
+  },
+  {
+   "number": "793",
+   "peg": "cap Ma",
+   "hook": "cap (79) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "794",
+   "peg": "cobra",
+   "hook": ""
+  },
+  {
+   "number": "795",
+   "peg": "cable",
+   "hook": ""
+  },
+  {
+   "number": "796",
+   "peg": "cabbage",
+   "hook": ""
+  },
+  {
+   "number": "797",
+   "peg": "cup hook",
+   "hook": "cup (79) + hook (7): chain both into one image."
+  },
+  {
+   "number": "798",
+   "peg": "cap ivy",
+   "hook": "cap (79) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "799",
+   "peg": "cobweb",
+   "hook": ""
+  },
+  {
+   "number": "800",
+   "peg": "fuses",
+   "hook": "F-S-S: eight hundred old fuses."
+  },
+  {
+   "number": "801",
+   "peg": "faucet",
+   "hook": ""
+  },
+  {
+   "number": "802",
+   "peg": "face Noah",
+   "hook": "face (80) + Noah (2): chain both into one image."
+  },
+  {
+   "number": "803",
+   "peg": "face Ma",
+   "hook": "face (80) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "804",
+   "peg": "visor",
+   "hook": ""
+  },
+  {
+   "number": "805",
+   "peg": "fossil",
+   "hook": ""
+  },
+  {
+   "number": "806",
+   "peg": "face shoe",
+   "hook": "face (80) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "807",
+   "peg": "face key",
+   "hook": "face (80) + key (7): chain both into one image."
+  },
+  {
+   "number": "808",
+   "peg": "face ivy",
+   "hook": "face (80) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "809",
+   "peg": "face pie",
+   "hook": "face (80) + pie (9): chain both into one image."
+  },
+  {
+   "number": "810",
+   "peg": "fats",
+   "hook": ""
+  },
+  {
+   "number": "811",
+   "peg": "fat tea",
+   "hook": "fat (81) + tea (1): chain both into one image."
+  },
+  {
+   "number": "812",
+   "peg": "futon",
+   "hook": ""
+  },
+  {
+   "number": "813",
+   "peg": "fat Ma",
+   "hook": "fat (81) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "814",
+   "peg": "feather",
+   "hook": ""
+  },
+  {
+   "number": "815",
+   "peg": "fiddle",
+   "hook": ""
+  },
+  {
+   "number": "816",
+   "peg": "foot shoe",
+   "hook": "foot (81) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "817",
+   "peg": "fat cow",
+   "hook": "fat (81) + cow (7): chain both into one image."
+  },
+  {
+   "number": "818",
+   "peg": "fat ivy",
+   "hook": "fat (81) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "819",
+   "peg": "fat pie",
+   "hook": "fat (81) + pie (9): chain both into one image."
+  },
+  {
+   "number": "820",
+   "peg": "fans",
+   "hook": ""
+  },
+  {
+   "number": "821",
+   "peg": "fondue",
+   "hook": ""
+  },
+  {
+   "number": "822",
+   "peg": "fan Noah",
+   "hook": "fan (82) + Noah (2): chain both into one image."
+  },
+  {
+   "number": "823",
+   "peg": "venom",
+   "hook": ""
+  },
+  {
+   "number": "824",
+   "peg": "phone ear",
+   "hook": "phone (82) + ear (4): chain both into one image."
+  },
+  {
+   "number": "825",
+   "peg": "funnel",
+   "hook": ""
+  },
+  {
+   "number": "826",
+   "peg": "finch",
+   "hook": ""
+  },
+  {
+   "number": "827",
+   "peg": "fan key",
+   "hook": "fan (82) + key (7): chain both into one image."
+  },
+  {
+   "number": "828",
+   "peg": "fan ivy",
+   "hook": "fan (82) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "829",
+   "peg": "oven pie",
+   "hook": "oven (82) + pie (9): chain both into one image."
+  },
+  {
+   "number": "830",
+   "peg": "foams",
+   "hook": ""
+  },
+  {
+   "number": "831",
+   "peg": "foam head",
+   "hook": "foam (83) + head (1): chain both into one image."
+  },
+  {
+   "number": "832",
+   "peg": "foam Noah",
+   "hook": "foam (83) + Noah (2): chain both into one image."
+  },
+  {
+   "number": "833",
+   "peg": "foam Ma",
+   "hook": "foam (83) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "834",
+   "peg": "femur",
+   "hook": ""
+  },
+  {
+   "number": "835",
+   "peg": "family",
+   "hook": ""
+  },
+  {
+   "number": "836",
+   "peg": "foam shoe",
+   "hook": "foam (83) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "837",
+   "peg": "foam key",
+   "hook": "foam (83) + key (7): chain both into one image."
+  },
+  {
+   "number": "838",
+   "peg": "foam ivy",
+   "hook": "foam (83) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "839",
+   "peg": "foam pie",
+   "hook": "foam (83) + pie (9): chain both into one image."
+  },
+  {
+   "number": "840",
+   "peg": "fires",
+   "hook": ""
+  },
+  {
+   "number": "841",
+   "peg": "fruit",
+   "hook": ""
+  },
+  {
+   "number": "842",
+   "peg": "fern",
+   "hook": ""
+  },
+  {
+   "number": "843",
+   "peg": "farm",
+   "hook": ""
+  },
+  {
+   "number": "844",
+   "peg": "fryer",
+   "hook": ""
+  },
+  {
+   "number": "845",
+   "peg": "firewall",
+   "hook": ""
+  },
+  {
+   "number": "846",
+   "peg": "fridge",
+   "hook": ""
+  },
+  {
+   "number": "847",
+   "peg": "frog",
+   "hook": ""
+  },
+  {
+   "number": "848",
+   "peg": "fire ivy",
+   "hook": "fire (84) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "849",
+   "peg": "fire pie",
+   "hook": "fire (84) + pie (9): chain both into one image."
+  },
+  {
+   "number": "850",
+   "peg": "files",
+   "hook": ""
+  },
+  {
+   "number": "851",
+   "peg": "flute",
+   "hook": ""
+  },
+  {
+   "number": "852",
+   "peg": "violin",
+   "hook": ""
+  },
+  {
+   "number": "853",
+   "peg": "flame",
+   "hook": ""
+  },
+  {
+   "number": "854",
+   "peg": "flower",
+   "hook": ""
+  },
+  {
+   "number": "855",
+   "peg": "file law",
+   "hook": "file (85) + law (5): chain both into one image."
+  },
+  {
+   "number": "856",
+   "peg": "village",
+   "hook": ""
+  },
+  {
+   "number": "857",
+   "peg": "flag",
+   "hook": ""
+  },
+  {
+   "number": "858",
+   "peg": "valve",
+   "hook": ""
+  },
+  {
+   "number": "859",
+   "peg": "flap",
+   "hook": ""
+  },
+  {
+   "number": "860",
+   "peg": "fishes",
+   "hook": ""
+  },
+  {
+   "number": "861",
+   "peg": "fish head",
+   "hook": "fish (86) + head (1): chain both into one image."
+  },
+  {
+   "number": "862",
+   "peg": "fish Noah",
+   "hook": "fish (86) + Noah (2): chain both into one image."
+  },
+  {
+   "number": "863",
+   "peg": "fish Ma",
+   "hook": "fish (86) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "864",
+   "peg": "fish ray",
+   "hook": "fish (86) + ray (4): chain both into one image."
+  },
+  {
+   "number": "865",
+   "peg": "fish oil",
+   "hook": "fish (86) + oil (5): chain both into one image."
+  },
+  {
+   "number": "866",
+   "peg": "fish shoe",
+   "hook": "fish (86) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "867",
+   "peg": "fish hook",
+   "hook": "fish (86) + hook (7): chain both into one image."
+  },
+  {
+   "number": "868",
+   "peg": "fish ivy",
+   "hook": "fish (86) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "869",
+   "peg": "fish pie",
+   "hook": "fish (86) + pie (9): chain both into one image."
+  },
+  {
+   "number": "870",
+   "peg": "fogs",
+   "hook": ""
+  },
+  {
+   "number": "871",
+   "peg": "avocado",
+   "hook": ""
+  },
+  {
+   "number": "872",
+   "peg": "wave canoe",
+   "hook": "wave (8) + canoe (72): chain both into one image."
+  },
+  {
+   "number": "873",
+   "peg": "vacuum",
+   "hook": ""
+  },
+  {
+   "number": "874",
+   "peg": "fog ray",
+   "hook": "fog (87) + ray (4): chain both into one image."
+  },
+  {
+   "number": "875",
+   "peg": "vehicle",
+   "hook": ""
+  },
+  {
+   "number": "876",
+   "peg": "fog shoe",
+   "hook": "fog (87) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "877",
+   "peg": "fog key",
+   "hook": "fog (87) + key (7): chain both into one image."
+  },
+  {
+   "number": "878",
+   "peg": "fog ivy",
+   "hook": "fog (87) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "879",
+   "peg": "fog pie",
+   "hook": "fog (87) + pie (9): chain both into one image."
+  },
+  {
+   "number": "880",
+   "peg": "fifes",
+   "hook": ""
+  },
+  {
+   "number": "881",
+   "peg": "fife tea",
+   "hook": "fife (88) + tea (1): chain both into one image."
+  },
+  {
+   "number": "882",
+   "peg": "wave fin",
+   "hook": "wave (8) + fin (82): chain both into one image."
+  },
+  {
+   "number": "883",
+   "peg": "wave foam",
+   "hook": "wave (8) + foam (83): chain both into one image."
+  },
+  {
+   "number": "884",
+   "peg": "fever",
+   "hook": ""
+  },
+  {
+   "number": "885",
+   "peg": "fife law",
+   "hook": "fife (88) + law (5): chain both into one image."
+  },
+  {
+   "number": "886",
+   "peg": "wave fish",
+   "hook": "wave (8) + fish (86): chain both into one image."
+  },
+  {
+   "number": "887",
+   "peg": "fife key",
+   "hook": "fife (88) + key (7): chain both into one image."
+  },
+  {
+   "number": "888",
+   "peg": "vivify",
+   "hook": "V-V-F: to vivify is to fire with life, three times over."
+  },
+  {
+   "number": "889",
+   "peg": "fife pie",
+   "hook": "fife (88) + pie (9): chain both into one image."
+  },
+  {
+   "number": "890",
+   "peg": "fobs",
+   "hook": ""
+  },
+  {
+   "number": "891",
+   "peg": "wave boat",
+   "hook": "wave (8) + boat (91): chain both into one image."
+  },
+  {
+   "number": "892",
+   "peg": "fob Noah",
+   "hook": "fob (89) + Noah (2): chain both into one image."
+  },
+  {
+   "number": "893",
+   "peg": "fob Ma",
+   "hook": "fob (89) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "894",
+   "peg": "viper",
+   "hook": ""
+  },
+  {
+   "number": "895",
+   "peg": "wave pool",
+   "hook": "wave (8) + pool (95): chain both into one image."
+  },
+  {
+   "number": "896",
+   "peg": "wave beach",
+   "hook": "wave (8) + beach (96): chain both into one image."
+  },
+  {
+   "number": "897",
+   "peg": "fob key",
+   "hook": "fob (89) + key (7): chain both into one image."
+  },
+  {
+   "number": "898",
+   "peg": "fob ivy",
+   "hook": "fob (89) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "899",
+   "peg": "fob pie",
+   "hook": "fob (89) + pie (9): chain both into one image."
+  },
+  {
+   "number": "900",
+   "peg": "buses",
+   "hook": "P-S-S: nine hundred buses in a depot."
+  },
+  {
+   "number": "901",
+   "peg": "pasta",
+   "hook": ""
+  },
+  {
+   "number": "902",
+   "peg": "bison",
+   "hook": ""
+  },
+  {
+   "number": "903",
+   "peg": "possum",
+   "hook": ""
+  },
+  {
+   "number": "904",
+   "peg": "buzzer",
+   "hook": ""
+  },
+  {
+   "number": "905",
+   "peg": "puzzle",
+   "hook": ""
+  },
+  {
+   "number": "906",
+   "peg": "pose shoe",
+   "hook": "pose (90) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "907",
+   "peg": "bazooka",
+   "hook": ""
+  },
+  {
+   "number": "908",
+   "peg": "pose ivy",
+   "hook": "pose (90) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "909",
+   "peg": "bus boy",
+   "hook": "bus (90) + boy (9): chain both into one image."
+  },
+  {
+   "number": "910",
+   "peg": "pots",
+   "hook": ""
+  },
+  {
+   "number": "911",
+   "peg": "potato",
+   "hook": "P-T-T: a hot potato is an emergency in your hands."
+  },
+  {
+   "number": "912",
+   "peg": "button",
+   "hook": ""
+  },
+  {
+   "number": "913",
+   "peg": "podium",
+   "hook": ""
+  },
+  {
+   "number": "914",
+   "peg": "butter",
+   "hook": ""
+  },
+  {
+   "number": "915",
+   "peg": "bottle",
+   "hook": ""
+  },
+  {
+   "number": "916",
+   "peg": "boat shoe",
+   "hook": "boat (91) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "917",
+   "peg": "boutique",
+   "hook": ""
+  },
+  {
+   "number": "918",
+   "peg": "boat wave",
+   "hook": "boat (91) + wave (8): chain both into one image."
+  },
+  {
+   "number": "919",
+   "peg": "potpie",
+   "hook": ""
+  },
+  {
+   "number": "920",
+   "peg": "pens",
+   "hook": ""
+  },
+  {
+   "number": "921",
+   "peg": "peanut",
+   "hook": ""
+  },
+  {
+   "number": "922",
+   "peg": "banana",
+   "hook": ""
+  },
+  {
+   "number": "923",
+   "peg": "pen Ma",
+   "hook": "pen (92) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "924",
+   "peg": "banner",
+   "hook": ""
+  },
+  {
+   "number": "925",
+   "peg": "panel",
+   "hook": ""
+  },
+  {
+   "number": "926",
+   "peg": "banjo",
+   "hook": ""
+  },
+  {
+   "number": "927",
+   "peg": "piano key",
+   "hook": "piano (92) + key (7): chain both into one image."
+  },
+  {
+   "number": "928",
+   "peg": "pen ivy",
+   "hook": "pen (92) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "929",
+   "peg": "pen pie",
+   "hook": "pen (92) + pie (9): chain both into one image."
+  },
+  {
+   "number": "930",
+   "peg": "poems",
+   "hook": ""
+  },
+  {
+   "number": "931",
+   "peg": "behemoth",
+   "hook": ""
+  },
+  {
+   "number": "932",
+   "peg": "bohemian",
+   "hook": ""
+  },
+  {
+   "number": "933",
+   "peg": "poem Ma",
+   "hook": "poem (93) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "934",
+   "peg": "bomber",
+   "hook": ""
+  },
+  {
+   "number": "935",
+   "peg": "pommel",
+   "hook": ""
+  },
+  {
+   "number": "936",
+   "peg": "poem shoe",
+   "hook": "poem (93) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "937",
+   "peg": "poem key",
+   "hook": "poem (93) + key (7): chain both into one image."
+  },
+  {
+   "number": "938",
+   "peg": "poem ivy",
+   "hook": "poem (93) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "939",
+   "peg": "bamboo",
+   "hook": ""
+  },
+  {
+   "number": "940",
+   "peg": "piers",
+   "hook": ""
+  },
+  {
+   "number": "941",
+   "peg": "bird",
+   "hook": ""
+  },
+  {
+   "number": "942",
+   "peg": "barn",
+   "hook": ""
+  },
+  {
+   "number": "943",
+   "peg": "broom",
+   "hook": ""
+  },
+  {
+   "number": "944",
+   "peg": "prairie",
+   "hook": ""
+  },
+  {
+   "number": "945",
+   "peg": "barrel",
+   "hook": ""
+  },
+  {
+   "number": "946",
+   "peg": "bridge",
+   "hook": ""
+  },
+  {
+   "number": "947",
+   "peg": "brick",
+   "hook": ""
+  },
+  {
+   "number": "948",
+   "peg": "pier ivy",
+   "hook": "pier (94) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "949",
+   "peg": "probe",
+   "hook": ""
+  },
+  {
+   "number": "950",
+   "peg": "pails",
+   "hook": ""
+  },
+  {
+   "number": "951",
+   "peg": "belt",
+   "hook": ""
+  },
+  {
+   "number": "952",
+   "peg": "balloon",
+   "hook": ""
+  },
+  {
+   "number": "953",
+   "peg": "plum",
+   "hook": ""
+  },
+  {
+   "number": "954",
+   "peg": "pillar",
+   "hook": ""
+  },
+  {
+   "number": "955",
+   "peg": "blowhole",
+   "hook": ""
+  },
+  {
+   "number": "956",
+   "peg": "bleach",
+   "hook": ""
+  },
+  {
+   "number": "957",
+   "peg": "plug",
+   "hook": ""
+  },
+  {
+   "number": "958",
+   "peg": "pilaf",
+   "hook": ""
+  },
+  {
+   "number": "959",
+   "peg": "bulb",
+   "hook": ""
+  },
+  {
+   "number": "960",
+   "peg": "peaches",
+   "hook": ""
+  },
+  {
+   "number": "961",
+   "peg": "peach tea",
+   "hook": "peach (96) + tea (1): chain both into one image."
+  },
+  {
+   "number": "962",
+   "peg": "pigeon",
+   "hook": ""
+  },
+  {
+   "number": "963",
+   "peg": "pajama",
+   "hook": ""
+  },
+  {
+   "number": "964",
+   "peg": "badger",
+   "hook": ""
+  },
+  {
+   "number": "965",
+   "peg": "bushel",
+   "hook": ""
+  },
+  {
+   "number": "966",
+   "peg": "beach shoe",
+   "hook": "beach (96) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "967",
+   "peg": "paycheck",
+   "hook": ""
+  },
+  {
+   "number": "968",
+   "peg": "beach wave",
+   "hook": "beach (96) + wave (8): chain both into one image."
+  },
+  {
+   "number": "969",
+   "peg": "bishop",
+   "hook": ""
+  },
+  {
+   "number": "970",
+   "peg": "pucks",
+   "hook": ""
+  },
+  {
+   "number": "971",
+   "peg": "bucket",
+   "hook": ""
+  },
+  {
+   "number": "972",
+   "peg": "bacon",
+   "hook": ""
+  },
+  {
+   "number": "973",
+   "peg": "puck Ma",
+   "hook": "puck (97) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "974",
+   "peg": "baker",
+   "hook": ""
+  },
+  {
+   "number": "975",
+   "peg": "pickle",
+   "hook": ""
+  },
+  {
+   "number": "976",
+   "peg": "package",
+   "hook": ""
+  },
+  {
+   "number": "977",
+   "peg": "peacock",
+   "hook": ""
+  },
+  {
+   "number": "978",
+   "peg": "pig hoof",
+   "hook": "pig (97) + hoof (8): chain both into one image."
+  },
+  {
+   "number": "979",
+   "peg": "hubcap",
+   "hook": ""
+  },
+  {
+   "number": "980",
+   "peg": "pie face",
+   "hook": "pie (9) + face (80): chain both into one image."
+  },
+  {
+   "number": "981",
+   "peg": "puff tea",
+   "hook": "puff (98) + tea (1): chain both into one image."
+  },
+  {
+   "number": "982",
+   "peg": "pay phone",
+   "hook": "pay (9) + phone (82): chain both into one image."
+  },
+  {
+   "number": "983",
+   "peg": "puff Ma",
+   "hook": "puff (98) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "984",
+   "peg": "beaver",
+   "hook": ""
+  },
+  {
+   "number": "985",
+   "peg": "buffalo",
+   "hook": ""
+  },
+  {
+   "number": "986",
+   "peg": "puff shoe",
+   "hook": "puff (98) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "987",
+   "peg": "puff key",
+   "hook": "puff (98) + key (7): chain both into one image."
+  },
+  {
+   "number": "988",
+   "peg": "puff ivy",
+   "hook": "puff (98) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "989",
+   "peg": "puff pie",
+   "hook": "puff (98) + pie (9): chain both into one image."
+  },
+  {
+   "number": "990",
+   "peg": "pipes",
+   "hook": ""
+  },
+  {
+   "number": "991",
+   "peg": "puppet",
+   "hook": ""
+  },
+  {
+   "number": "992",
+   "peg": "baboon",
+   "hook": ""
+  },
+  {
+   "number": "993",
+   "peg": "pipe Ma",
+   "hook": "pipe (99) + Ma (3): chain both into one image."
+  },
+  {
+   "number": "994",
+   "peg": "pepper",
+   "hook": ""
+  },
+  {
+   "number": "995",
+   "peg": "pebble",
+   "hook": ""
+  },
+  {
+   "number": "996",
+   "peg": "baby shoe",
+   "hook": "baby (99) + shoe (6): chain both into one image."
+  },
+  {
+   "number": "997",
+   "peg": "pipe key",
+   "hook": "pipe (99) + key (7): chain both into one image."
+  },
+  {
+   "number": "998",
+   "peg": "pipe ivy",
+   "hook": "pipe (99) + ivy (8): chain both into one image."
+  },
+  {
+   "number": "999",
+   "peg": "papa pie",
+   "hook": "P-P-P: papa bakes a pie, triple-nine tradition."
+  }
+ ]
+}

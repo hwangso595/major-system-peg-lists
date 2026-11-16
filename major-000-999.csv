@@ -1,0 +1,1001 @@
+number,peg,hook
+000,seesaws,S-S-S: a row of seesaws in an empty playground.
+001,tea,leading zero is silent: tea pegs 01.
+002,Noah,leading zero is silent: Noah pegs 02.
+003,Ma,leading zero is silent: Ma pegs 03.
+004,ray,leading zero is silent: ray pegs 04.
+005,law,leading zero is silent: law pegs 05.
+006,shoe,leading zero is silent: shoe pegs 06.
+007,key,leading zero is silent: key pegs 07.
+008,ivy,leading zero is silent: ivy pegs 08.
+009,pie,leading zero is silent: pie pegs 09.
+010,toes,leading zero is silent: toes pegs 10.
+011,tot,leading zero is silent: tot pegs 11.
+012,tin,leading zero is silent: tin pegs 12.
+013,tomb,leading zero is silent: tomb pegs 13.
+014,tire,leading zero is silent: tire pegs 14.
+015,towel,leading zero is silent: towel pegs 15.
+016,dish,leading zero is silent: dish pegs 16.
+017,tack,leading zero is silent: tack pegs 17.
+018,dove,leading zero is silent: dove pegs 18.
+019,tape,leading zero is silent: tape pegs 19.
+020,nose,leading zero is silent: nose pegs 20.
+021,knot,leading zero is silent: knot pegs 21.
+022,nun,leading zero is silent: nun pegs 22.
+023,name,leading zero is silent: name pegs 23.
+024,Nero,leading zero is silent: Nero pegs 24.
+025,nail,leading zero is silent: nail pegs 25.
+026,notch,leading zero is silent: notch pegs 26.
+027,neck,leading zero is silent: neck pegs 27.
+028,knife,leading zero is silent: knife pegs 28.
+029,knob,leading zero is silent: knob pegs 29.
+030,mouse,leading zero is silent: mouse pegs 30.
+031,mat,leading zero is silent: mat pegs 31.
+032,moon,leading zero is silent: moon pegs 32.
+033,mummy,leading zero is silent: mummy pegs 33.
+034,mower,leading zero is silent: mower pegs 34.
+035,mule,leading zero is silent: mule pegs 35.
+036,match,leading zero is silent: match pegs 36.
+037,mug,leading zero is silent: mug pegs 37.
+038,movie,leading zero is silent: movie pegs 38.
+039,map,leading zero is silent: map pegs 39.
+040,rose,leading zero is silent: rose pegs 40.
+041,rat,leading zero is silent: rat pegs 41.
+042,rain,leading zero is silent: rain pegs 42.
+043,ram,leading zero is silent: ram pegs 43.
+044,rower,leading zero is silent: rower pegs 44.
+045,rail,leading zero is silent: rail pegs 45.
+046,rash,leading zero is silent: rash pegs 46.
+047,rock,leading zero is silent: rock pegs 47.
+048,roof,leading zero is silent: roof pegs 48.
+049,rope,leading zero is silent: rope pegs 49.
+050,lace,leading zero is silent: lace pegs 50.
+051,lad,leading zero is silent: lad pegs 51.
+052,lion,leading zero is silent: lion pegs 52.
+053,lamb,leading zero is silent: lamb pegs 53.
+054,lure,leading zero is silent: lure pegs 54.
+055,lily,leading zero is silent: lily pegs 55.
+056,leash,leading zero is silent: leash pegs 56.
+057,lake,leading zero is silent: lake pegs 57.
+058,leaf,leading zero is silent: leaf pegs 58.
+059,lip,leading zero is silent: lip pegs 59.
+060,cheese,leading zero is silent: cheese pegs 60.
+061,sheet,leading zero is silent: sheet pegs 61.
+062,chain,leading zero is silent: chain pegs 62.
+063,jam,leading zero is silent: jam pegs 63.
+064,chair,leading zero is silent: chair pegs 64.
+065,shell,leading zero is silent: shell pegs 65.
+066,judge,leading zero is silent: judge pegs 66.
+067,chalk,leading zero is silent: chalk pegs 67.
+068,chef,leading zero is silent: chef pegs 68.
+069,ship,leading zero is silent: ship pegs 69.
+070,case,leading zero is silent: case pegs 70.
+071,cat,leading zero is silent: cat pegs 71.
+072,can,leading zero is silent: can pegs 72.
+073,comb,leading zero is silent: comb pegs 73.
+074,car,leading zero is silent: car pegs 74.
+075,coal,leading zero is silent: coal pegs 75.
+076,cash,leading zero is silent: cash pegs 76.
+077,cake,leading zero is silent: cake pegs 77.
+078,cave,leading zero is silent: cave pegs 78.
+079,cap,leading zero is silent: cap pegs 79.
+080,face,leading zero is silent: face pegs 80.
+081,fat,leading zero is silent: fat pegs 81.
+082,fan,leading zero is silent: fan pegs 82.
+083,foam,leading zero is silent: foam pegs 83.
+084,fire,leading zero is silent: fire pegs 84.
+085,file,leading zero is silent: file pegs 85.
+086,fish,leading zero is silent: fish pegs 86.
+087,fog,leading zero is silent: fog pegs 87.
+088,fife,leading zero is silent: fife pegs 88.
+089,fob,leading zero is silent: fob pegs 89.
+090,pose,leading zero is silent: pose pegs 90.
+091,pot,leading zero is silent: pot pegs 91.
+092,pen,leading zero is silent: pen pegs 92.
+093,poem,leading zero is silent: poem pegs 93.
+094,pier,leading zero is silent: pier pegs 94.
+095,pail,leading zero is silent: pail pegs 95.
+096,peach,leading zero is silent: peach pegs 96.
+097,puck,leading zero is silent: puck pegs 97.
+098,puff,leading zero is silent: puff pegs 98.
+099,pipe,leading zero is silent: pipe pegs 99.
+100,thesis,T-S-S: a bound thesis on a thick desk.
+101,toast,
+102,hot sun,hot (1) + sun (02): chain both into one image.
+103,woods home,woods (10) + home (3): chain both into one image.
+104,tweezer,
+105,diesel,
+106,dice shoe,dice (10) + shoe (6): chain both into one image.
+107,desk,
+108,wet sofa,wet (1) + sofa (08): chain both into one image.
+109,hot soup,hot (1) + soup (09): chain both into one image.
+110,tights,
+111,toad hat,toad (11) + hat (1): chain both into one image.
+112,tea tin,tea (1) + tin (12): chain both into one image.
+113,toad home,toad (11) + home (3): chain both into one image.
+114,theater,
+115,doodle,
+116,hot dish,hot (1) + dish (16): chain both into one image.
+117,hot dog,hot (1) + dog (17): chain both into one image.
+118,hot tofu,hot (1) + tofu (18): chain both into one image.
+119,hot tub,hot (1) + tub (19): chain both into one image.
+120,twins,
+121,tent,
+122,wooden knee,wooden (12) + knee (2): chain both into one image.
+123,denim,D-N-M: a stiff new pair of denim jeans.
+124,diner,
+125,tunnel,
+126,wooden shoe,wooden (12) + shoe (6): chain both into one image.
+127,wooden key,wooden (12) + key (7): chain both into one image.
+128,hot knife,hot (1) + knife (28): chain both into one image.
+129,wooden boy,wooden (12) + boy (9): chain both into one image.
+130,atoms,
+131,tomato,
+132,domino,
+133,dome home,dome (13) + home (3): chain both into one image.
+134,timer,
+135,oatmeal,
+136,hot match,hot (1) + match (36): chain both into one image.
+137,tomahawk,
+138,tomb ivy,tomb (13) + ivy (8): chain both into one image.
+139,wet mop,wet (1) + mop (39): chain both into one image.
+140,tears,
+141,dart,
+142,train,
+143,drum,
+144,drawer,
+145,drill,
+146,torch,
+147,truck,
+148,trophy,
+149,trap,
+150,tools,
+151,toilet,
+152,talon,
+153,doll home,doll (15) + home (3): chain both into one image.
+154,dollar,
+155,tail wheel,tail (15) + wheel (5): chain both into one image.
+156,doll shoe,doll (15) + shoe (6): chain both into one image.
+157,wet log,wet (1) + log (57): chain both into one image.
+158,hot lava,hot (1) + lava (58): chain both into one image.
+159,tulip,
+160,duchess,
+161,woodshed,
+162,wet chin,wet (1) + chin (62): chain both into one image.
+163,dish ham,dish (16) + ham (3): chain both into one image.
+164,teacher,
+165,hot chili,hot (1) + chili (65): chain both into one image.
+166,dish shoe,dish (16) + shoe (6): chain both into one image.
+167,woodchuck,
+168,hot chef,hot (1) + chef (68): chain both into one image.
+169,hot chip,hot (1) + chip (69): chain both into one image.
+170,tacos,
+171,ticket,
+172,token,
+173,dog ham,dog (17) + ham (3): chain both into one image.
+174,dog hair,dog (17) + hair (4): chain both into one image.
+175,tackle,
+176,dog show,dog (17) + show (6): chain both into one image.
+177,hot cake,hot (1) + cake (77): chain both into one image.
+178,decaf,
+179,teacup,
+180,doves,
+181,outfit,
+182,typhoon,
+183,dove home,dove (18) + home (3): chain both into one image.
+184,diver,
+185,duffel,
+186,hot fudge,hot (1) + fudge (86): chain both into one image.
+187,dove egg,dove (18) + egg (7): chain both into one image.
+188,dove ivy,dove (18) + ivy (8): chain both into one image.
+189,dove pie,dove (18) + pie (9): chain both into one image.
+190,topaz,
+191,teapot,
+192,hot pan,hot (1) + pan (92): chain both into one image.
+193,tub ham,tub (19) + ham (3): chain both into one image.
+194,diaper,
+195,table,
+196,hot beach,hot (1) + beach (96): chain both into one image.
+197,tea bag,tea (1) + bag (97): chain both into one image.
+198,hot beef,hot (1) + beef (98): chain both into one image.
+199,wet puppy,wet (1) + puppy (99): chain both into one image.
+200,noses,N-S-S: two hundred sniffles.
+201,nest,
+202,hen snow,hen (2) + snow (02): chain both into one image.
+203,nose ham,nose (20) + ham (3): chain both into one image.
+204,nose hair,nose (20) + hair (4): chain both into one image.
+205,nozzle,
+206,hen sushi,hen (2) + sushi (06): chain both into one image.
+207,knee sock,knee (2) + sock (07): chain both into one image.
+208,hen sofa,hen (2) + sofa (08): chain both into one image.
+209,honey soap,honey (2) + soap (09): chain both into one image.
+210,handsaw,
+211,knee tattoo,knee (2) + tattoo (11): chain both into one image.
+212,antenna,
+213,hand ham,hand (21) + ham (3): chain both into one image.
+214,hunter,
+215,needle,
+216,honey dish,honey (2) + dish (16): chain both into one image.
+217,hand hook,hand (21) + hook (7): chain both into one image.
+218,hand wave,hand (21) + wave (8): chain both into one image.
+219,knee tape,knee (2) + tape (19): chain both into one image.
+220,neons,
+221,nun hat,nun (22) + hat (1): chain both into one image.
+222,hen onion,hen (2) + onion (22): chain both into one image.
+223,onion ham,onion (22) + ham (3): chain both into one image.
+224,nun hair,nun (22) + hair (4): chain both into one image.
+225,nun owl,nun (22) + owl (5): chain both into one image.
+226,ninja,
+227,hen neck,hen (2) + neck (27): chain both into one image.
+228,honey knife,honey (2) + knife (28): chain both into one image.
+229,onion pie,onion (22) + pie (9): chain both into one image.
+230,names,
+231,knee mud,knee (2) + mud (31): chain both into one image.
+232,new moon,new (2) + moon (32): chain both into one image.
+233,gnome home,gnome (23) + home (3): chain both into one image.
+234,knee hammer,knee (2) + hammer (34): chain both into one image.
+235,animal,
+236,gnome shoe,gnome (23) + shoe (6): chain both into one image.
+237,honey mug,honey (2) + mug (37): chain both into one image.
+238,gnome wave,gnome (23) + wave (8): chain both into one image.
+239,gnome pie,gnome (23) + pie (9): chain both into one image.
+240,nurse,
+241,hen yard,hen (2) + yard (41): chain both into one image.
+242,neuron,
+243,hen worm,hen (2) + worm (43): chain both into one image.
+244,Nero ray,Nero (24) + ray (4): chain both into one image.
+245,Nero law,Nero (24) + law (5): chain both into one image.
+246,knee rash,knee (2) + rash (46): chain both into one image.
+247,hen rock,hen (2) + rock (47): chain both into one image.
+248,hen roof,hen (2) + roof (48): chain both into one image.
+249,honey robe,honey (2) + robe (49): chain both into one image.
+250,nail sea,nail (25) + sea (0): chain both into one image.
+251,newlywed,
+252,nylon,
+253,hen lamb,hen (2) + lamb (53): chain both into one image.
+254,inhaler,
+255,nail hole,nail (25) + hole (5): chain both into one image.
+256,hen leash,hen (2) + leash (56): chain both into one image.
+257,hen leg,hen (2) + leg (57): chain both into one image.
+258,honey loaf,honey (2) + loaf (58): chain both into one image.
+259,honey lip,honey (2) + lip (59): chain both into one image.
+260,nachos,
+261,notch tea,notch (26) + tea (1): chain both into one image.
+262,engine,
+263,honey jam,honey (2) + jam (63): chain both into one image.
+264,honey jar,honey (2) + jar (64): chain both into one image.
+265,angel,
+266,notch shoe,notch (26) + shoe (6): chain both into one image.
+267,honey jug,honey (2) + jug (67): chain both into one image.
+268,anchovy,
+269,hen sheep,hen (2) + sheep (69): chain both into one image.
+270,hen goose,hen (2) + goose (70): chain both into one image.
+271,necktie,
+272,hen wagon,hen (2) + wagon (72): chain both into one image.
+273,honeycomb,
+274,neck hair,neck (27) + hair (4): chain both into one image.
+275,nickel,
+276,hen cage,hen (2) + cage (76): chain both into one image.
+277,honey cake,honey (2) + cake (77): chain both into one image.
+278,neck ivy,neck (27) + ivy (8): chain both into one image.
+279,kneecap,
+280,knives,
+281,hen foot,hen (2) + foot (81): chain both into one image.
+282,honey oven,honey (2) + oven (82): chain both into one image.
+283,knife ham,knife (28) + ham (3): chain both into one image.
+284,knife ray,knife (28) + ray (4): chain both into one image.
+285,anvil,
+286,honey fudge,honey (2) + fudge (86): chain both into one image.
+287,knife hook,knife (28) + hook (7): chain both into one image.
+288,knife hoof,knife (28) + hoof (8): chain both into one image.
+289,knife pie,knife (28) + pie (9): chain both into one image.
+290,honeybees,
+291,honey pot,honey (2) + pot (91): chain both into one image.
+292,honey bunny,honey (2) + bunny (92): chain both into one image.
+293,knob Ma,knob (29) + Ma (3): chain both into one image.
+294,honey bear,honey (2) + bear (94): chain both into one image.
+295,nebula,
+296,honey peach,honey (2) + peach (96): chain both into one image.
+297,hen pig,hen (2) + pig (97): chain both into one image.
+298,knob ivy,knob (29) + ivy (8): chain both into one image.
+299,honey puppy,honey (2) + puppy (99): chain both into one image.
+300,moses,M-S-S: Moses parts the sea.
+301,mast,
+302,mouse Noah,mouse (30) + Noah (2): chain both into one image.
+303,museum,
+304,mouse ear,mouse (30) + ear (4): chain both into one image.
+305,missile,
+306,massage,
+307,mask,
+308,mouse ivy,mouse (30) + ivy (8): chain both into one image.
+309,ham soup,ham (3) + soup (09): chain both into one image.
+310,moths,
+311,maid hat,maid (31) + hat (1): chain both into one image.
+312,mitten,
+313,modem,
+314,matter,"M-T-R: pi, all the matter in the universe."
+315,medal,
+316,mouthwash,
+317,medic,
+318,midwife,
+319,mud pie,mud (31) + pie (9): chain both into one image.
+320,moons,
+321,mint,
+322,ham onion,ham (3) + onion (22): chain both into one image.
+323,moon Ma,moon (32) + Ma (3): chain both into one image.
+324,manor,
+325,manhole,
+326,moon shoe,moon (32) + shoe (6): chain both into one image.
+327,moon cow,moon (32) + cow (7): chain both into one image.
+328,ham knife,ham (3) + knife (28): chain both into one image.
+329,moon pie,moon (32) + pie (9): chain both into one image.
+330,mums,
+331,mammoth,
+332,mummy Noah,mummy (33) + Noah (2): chain both into one image.
+333,Ma mama,M-M-M: three hums of comfort.
+334,mummy hair,mummy (33) + hair (4): chain both into one image.
+335,ham meal,ham (3) + meal (35): chain both into one image.
+336,mummy shoe,mummy (33) + shoe (6): chain both into one image.
+337,mummy key,mummy (33) + key (7): chain both into one image.
+338,home movie,home (3) + movie (38): chain both into one image.
+339,mummy pie,mummy (33) + pie (9): chain both into one image.
+340,mowers,
+341,hammer head,hammer (34) + head (1): chain both into one image.
+342,marina,
+343,home room,home (3) + room (43): chain both into one image.
+344,mirror,
+345,mural,
+346,marsh,
+347,homework,
+348,home roof,home (3) + roof (48): chain both into one image.
+349,mower pie,mower (34) + pie (9): chain both into one image.
+350,mules,
+351,mallet,
+352,melon,
+353,mule Ma,mule (35) + Ma (3): chain both into one image.
+354,molar,
+355,molehill,
+356,mulch,
+357,milk,
+358,mule hoof,mule (35) + hoof (8): chain both into one image.
+359,mule pie,mule (35) + pie (9): chain both into one image.
+360,ham cheese,ham (3) + cheese (60): chain both into one image.
+361,machete,
+362,machine,
+363,home gym,home (3) + gym (63): chain both into one image.
+364,home shower,home (3) + shower (64): chain both into one image.
+365,mesh hole,M-Sh-L: a hole torn in the mesh fence.
+366,match shoe,match (36) + shoe (6): chain both into one image.
+367,match key,match (36) + key (7): chain both into one image.
+368,home chef,home (3) + chef (68): chain both into one image.
+369,match pie,match (36) + pie (9): chain both into one image.
+370,hammocks,
+371,maggot,
+372,mahogany,
+373,magma,
+374,mug ray,mug (37) + ray (4): chain both into one image.
+375,mug law,mug (37) + law (5): chain both into one image.
+376,mug shoe,mug (37) + shoe (6): chain both into one image.
+377,mug key,mug (37) + key (7): chain both into one image.
+378,mug ivy,mug (37) + ivy (8): chain both into one image.
+379,makeup,
+380,movie house,movie (38) + house (0): chain both into one image.
+381,home video,home (3) + video (81): chain both into one image.
+382,muffin,
+383,movie Ma,movie (38) + Ma (3): chain both into one image.
+384,home fire,home (3) + fire (84): chain both into one image.
+385,movie law,movie (38) + law (5): chain both into one image.
+386,movie shoe,movie (38) + shoe (6): chain both into one image.
+387,movie key,movie (38) + key (7): chain both into one image.
+388,movie ivy,movie (38) + ivy (8): chain both into one image.
+389,movie pie,movie (38) + pie (9): chain both into one image.
+390,maps,
+391,mop head,mop (39) + head (1): chain both into one image.
+392,ham bone,ham (3) + bone (92): chain both into one image.
+393,map home,map (39) + home (3): chain both into one image.
+394,umpire,
+395,maple,
+396,map shoe,map (39) + shoe (6): chain both into one image.
+397,map key,map (39) + key (7): chain both into one image.
+398,map ivy,map (39) + ivy (8): chain both into one image.
+399,map pie,map (39) + pie (9): chain both into one image.
+400,horses,
+401,roast,
+402,raisin,
+403,horse home,horse (40) + home (3): chain both into one image.
+404,razor,R-S-R: a straight razor rasps twice.
+405,aerosol,
+406,horseshoe,
+407,rose key,rose (40) + key (7): chain both into one image.
+408,horse hoof,horse (40) + hoof (8): chain both into one image.
+409,recipe,
+410,raids,
+411,redwood,
+412,warden,
+413,radio ham,radio (41) + ham (3): chain both into one image.
+414,rudder,
+415,rattle,
+416,radish,
+417,ear tag,ear (4) + tag (17): chain both into one image.
+418,radio wave,radio (41) + wave (8): chain both into one image.
+419,rat pie,rat (41) + pie (9): chain both into one image.
+420,ranis,
+421,hornet,
+422,rain Noah,rain (42) + Noah (2): chain both into one image.
+423,rain Ma,rain (42) + Ma (3): chain both into one image.
+424,runner,
+425,horn owl,horn (42) + owl (5): chain both into one image.
+426,orange,
+427,iron hook,iron (42) + hook (7): chain both into one image.
+428,rhino hoof,rhino (42) + hoof (8): chain both into one image.
+429,rainbow,
+430,rams,
+431,hermit,
+432,ram Noah,ram (43) + Noah (2): chain both into one image.
+433,ram Ma,ram (43) + Ma (3): chain both into one image.
+434,armor,
+435,airmail,
+436,army shoe,army (43) + shoe (6): chain both into one image.
+437,room key,room (43) + key (7): chain both into one image.
+438,earmuff,
+439,ramp,
+440,rowers,
+441,rower tea,rower (44) + tea (1): chain both into one image.
+442,ear horn,ear (4) + horn (42): chain both into one image.
+443,ear worm,ear (4) + worm (43): chain both into one image.
+444,roarer,R-R-R: a roarer at full throat.
+445,rower law,rower (44) + law (5): chain both into one image.
+446,rower shoe,rower (44) + shoe (6): chain both into one image.
+447,rower key,rower (44) + key (7): chain both into one image.
+448,rower ivy,rower (44) + ivy (8): chain both into one image.
+449,rower pie,rower (44) + pie (9): chain both into one image.
+450,rolls,
+451,roulette,
+452,hair line,hair (4) + line (52): chain both into one image.
+453,heirloom,
+454,ruler,
+455,rail wheel,rail (45) + wheel (5): chain both into one image.
+456,rail shoe,rail (45) + shoe (6): chain both into one image.
+457,relic,
+458,werewolf,
+459,ear lobe,ear (4) + lobe (59): chain both into one image.
+460,arches,
+461,rash tea,rash (46) + tea (1): chain both into one image.
+462,urchin,
+463,ear gem,ear (4) + gem (63): chain both into one image.
+464,archer,
+465,hair gel,hair (4) + gel (65): chain both into one image.
+466,arch shoe,arch (46) + shoe (6): chain both into one image.
+467,arch key,arch (46) + key (7): chain both into one image.
+468,rash ivy,rash (46) + ivy (8): chain both into one image.
+469,warship,
+470,rocks,
+471,rocket,
+472,raccoon,
+473,origami,
+474,rocker,
+475,rock wall,rock (47) + wall (5): chain both into one image.
+476,wreckage,
+477,rock key,rock (47) + key (7): chain both into one image.
+478,ear cuff,ear (4) + cuff (78): chain both into one image.
+479,rugby,
+480,roofs,
+481,raft,
+482,raven,
+483,hair foam,hair (4) + foam (83): chain both into one image.
+484,river,
+485,rifle,
+486,roof shoe,roof (48) + shoe (6): chain both into one image.
+487,roof key,roof (48) + key (7): chain both into one image.
+488,roof ivy,roof (48) + ivy (8): chain both into one image.
+489,roof pie,roof (48) + pie (9): chain both into one image.
+490,ropes,
+491,rabbit,
+492,ribbon,
+493,rope Ma,rope (49) + Ma (3): chain both into one image.
+494,robber,
+495,rubble,
+496,rubbish,
+497,airbag,
+498,rope ivy,rope (49) + ivy (8): chain both into one image.
+499,rope pie,rope (49) + pie (9): chain both into one image.
+500,lassos,L-S-S: a cowboy's loops.
+501,hillside,
+502,owl snow,owl (5) + snow (02): chain both into one image.
+503,lace Ma,lace (50) + Ma (3): chain both into one image.
+504,laser,
+505,lace law,lace (50) + law (5): chain both into one image.
+506,eel sushi,eel (5) + sushi (06): chain both into one image.
+507,hole sock,hole (5) + sock (07): chain both into one image.
+508,lace ivy,lace (50) + ivy (8): chain both into one image.
+509,eel soup,eel (5) + soup (09): chain both into one image.
+510,lids,
+511,low tide,low (5) + tide (11): chain both into one image.
+512,lad Noah,lad (51) + Noah (2): chain both into one image.
+513,lad Ma,lad (51) + Ma (3): chain both into one image.
+514,ladder,
+515,ladle,
+516,lad shoe,lad (51) + shoe (6): chain both into one image.
+517,wallet key,wallet (51) + key (7): chain both into one image.
+518,lad ivy,lad (51) + ivy (8): chain both into one image.
+519,hilltop,
+520,lions,
+521,walnut,
+522,linen,
+523,lion Ma,lion (52) + Ma (3): chain both into one image.
+524,eyeliner,
+525,lion law,lion (52) + law (5): chain both into one image.
+526,lunch,
+527,line hook,line (52) + hook (7): chain both into one image.
+528,lion ivy,lion (52) + ivy (8): chain both into one image.
+529,lineup,
+530,lambs,
+531,helmet,
+532,lemon,
+533,lamb Ma,lamb (53) + Ma (3): chain both into one image.
+534,lamb ear,lamb (53) + ear (4): chain both into one image.
+535,owl mail,owl (5) + mail (35): chain both into one image.
+536,lamb shoe,lamb (53) + shoe (6): chain both into one image.
+537,lamb key,lamb (53) + key (7): chain both into one image.
+538,lamb hoof,lamb (53) + hoof (8): chain both into one image.
+539,lamp,
+540,lyres,
+541,lard,
+542,lure Noah,lure (54) + Noah (2): chain both into one image.
+543,alarm,
+544,lure ray,lure (54) + ray (4): chain both into one image.
+545,laurel,
+546,lure shoe,lure (54) + shoe (6): chain both into one image.
+547,oil rig,oil (5) + rig (47): chain both into one image.
+548,larva,
+549,lure pie,lure (54) + pie (9): chain both into one image.
+550,lulls,
+551,lily tea,lily (55) + tea (1): chain both into one image.
+552,lily Noah,lily (55) + Noah (2): chain both into one image.
+553,owl limb,owl (5) + limb (53): chain both into one image.
+554,lily hair,lily (55) + hair (4): chain both into one image.
+555,lily law,L-L-L: lilies laid on the law book.
+556,owl ledge,owl (5) + ledge (56): chain both into one image.
+557,lilac,
+558,lily ivy,lily (55) + ivy (8): chain both into one image.
+559,lullaby,
+560,leeches,
+561,leash tea,leash (56) + tea (1): chain both into one image.
+562,leash Noah,leash (56) + Noah (2): chain both into one image.
+563,leash Ma,leash (56) + Ma (3): chain both into one image.
+564,wheelchair,
+565,eel jelly,eel (5) + jelly (65): chain both into one image.
+566,owl judge,owl (5) + judge (66): chain both into one image.
+567,owl chick,owl (5) + chick (67): chain both into one image.
+568,leash ivy,leash (56) + ivy (8): chain both into one image.
+569,leash pie,leash (56) + pie (9): chain both into one image.
+570,locks,
+571,locket,
+572,lagoon,
+573,leg ham,leg (57) + ham (3): chain both into one image.
+574,locker,
+575,owl claw,owl (5) + claw (75): chain both into one image.
+576,luggage,
+577,lake key,lake (57) + key (7): chain both into one image.
+578,lake wave,lake (57) + wave (8): chain both into one image.
+579,lake pie,lake (57) + pie (9): chain both into one image.
+580,leafs,
+581,hayloft,
+582,wall phone,wall (5) + phone (82): chain both into one image.
+583,leaf Ma,leaf (58) + Ma (3): chain both into one image.
+584,lever,
+585,olive oil,olive (58) + oil (5): chain both into one image.
+586,leaf shoe,leaf (58) + shoe (6): chain both into one image.
+587,leaf key,leaf (58) + key (7): chain both into one image.
+588,leaf ivy,leaf (58) + ivy (8): chain both into one image.
+589,wolf boy,wolf (58) + boy (9): chain both into one image.
+590,lobes,
+591,wall bed,wall (5) + bed (91): chain both into one image.
+592,oil pan,oil (5) + pan (92): chain both into one image.
+593,album,
+594,wheelbarrow,
+595,label,
+596,lip shoe,lip (59) + shoe (6): chain both into one image.
+597,owl book,owl (5) + book (97): chain both into one image.
+598,lip ivy,lip (59) + ivy (8): chain both into one image.
+599,owl baby,owl (5) + baby (99): chain both into one image.
+600,shoe sauce,Sh-S-S: sauce poured into a shoe.
+601,chest,
+602,cheese Noah,cheese (60) + Noah (2): chain both into one image.
+603,cheese ham,cheese (60) + ham (3): chain both into one image.
+604,cheese ray,cheese (60) + ray (4): chain both into one image.
+605,chisel,
+606,cheese shoe,cheese (60) + shoe (6): chain both into one image.
+607,shoe sock,shoe (6) + sock (07): chain both into one image.
+608,cheese ivy,cheese (60) + ivy (8): chain both into one image.
+609,cheese pie,cheese (60) + pie (9): chain both into one image.
+610,cheetahs,
+611,shootout,
+612,sheet Noah,sheet (61) + Noah (2): chain both into one image.
+613,sheet Ma,sheet (61) + Ma (3): chain both into one image.
+614,chowder,
+615,shuttle,
+616,sheet shoe,sheet (61) + shoe (6): chain both into one image.
+617,watchdog,
+618,sheet ivy,sheet (61) + ivy (8): chain both into one image.
+619,washtub,
+620,jeans,
+621,giant,
+622,chain Noah,chain (62) + Noah (2): chain both into one image.
+623,chain Ma,chain (62) + Ma (3): chain both into one image.
+624,chin hair,chin (62) + hair (4): chain both into one image.
+625,shoe nail,shoe (6) + nail (25): chain both into one image.
+626,chain shoe,chain (62) + shoe (6): chain both into one image.
+627,chain hook,chain (62) + hook (7): chain both into one image.
+628,chain ivy,chain (62) + ivy (8): chain both into one image.
+629,chain pie,chain (62) + pie (9): chain both into one image.
+630,gems,
+631,shoe mat,shoe (6) + mat (31): chain both into one image.
+632,chimney,
+633,jam Ma,jam (63) + Ma (3): chain both into one image.
+634,jam ray,jam (63) + ray (4): chain both into one image.
+635,jam law,jam (63) + law (5): chain both into one image.
+636,gym shoe,gym (63) + shoe (6): chain both into one image.
+637,gem egg,gem (63) + egg (7): chain both into one image.
+638,jam ivy,jam (63) + ivy (8): chain both into one image.
+639,chimp,
+640,jersey,
+641,shirt,
+642,shoehorn,
+643,showroom,
+644,juror,
+645,shower wall,shower (64) + wall (5): chain both into one image.
+646,church,
+647,shark,
+648,giraffe,
+649,shrub,
+650,shoelace,
+651,shield,
+652,jaw line,jaw (6) + line (52): chain both into one image.
+653,shell Ma,shell (65) + Ma (3): chain both into one image.
+654,jewelry,
+655,jail wall,jail (65) + wall (5): chain both into one image.
+656,shell shoe,shell (65) + shoe (6): chain both into one image.
+657,jail key,jail (65) + key (7): chain both into one image.
+658,shelf,
+659,shell pie,shell (65) + pie (9): chain both into one image.
+660,judge sea,judge (66) + sea (0): chain both into one image.
+661,judge hat,judge (66) + hat (1): chain both into one image.
+662,shoeshine,
+663,judge Ma,judge (66) + Ma (3): chain both into one image.
+664,judge hair,judge (66) + hair (4): chain both into one image.
+665,judge law,judge (66) + law (5): chain both into one image.
+666,cha-cha shoe,Ch-Ch-Sh: dance shoes tapping a triple-six beat.
+667,judge key,judge (66) + key (7): chain both into one image.
+668,judge ivy,judge (66) + ivy (8): chain both into one image.
+669,judge pie,judge (66) + pie (9): chain both into one image.
+670,jigsaw,
+671,jacket,
+672,chicken,
+673,shoe gum,shoe (6) + gum (73): chain both into one image.
+674,jaguar,
+675,jackal,
+676,chalk shoe,chalk (67) + shoe (6): chain both into one image.
+677,chick egg,chick (67) + egg (7): chain both into one image.
+678,shockwave,
+679,chalk pie,chalk (67) + pie (9): chain both into one image.
+680,chefs,
+681,chef hat,chef (68) + hat (1): chain both into one image.
+682,shoe phone,shoe (6) + phone (82): chain both into one image.
+683,chef ham,chef (68) + ham (3): chain both into one image.
+684,chauffeur,
+685,shovel,
+686,chef shoe,chef (68) + shoe (6): chain both into one image.
+687,chef egg,chef (68) + egg (7): chain both into one image.
+688,chef ivy,chef (68) + ivy (8): chain both into one image.
+689,chef pie,chef (68) + pie (9): chain both into one image.
+690,chips,
+691,ship tea,ship (69) + tea (1): chain both into one image.
+692,wishbone,
+693,ship Ma,ship (69) + Ma (3): chain both into one image.
+694,chopper,
+695,chapel,
+696,ship shoe,ship (69) + shoe (6): chain both into one image.
+697,hatchback,
+698,ship wave,ship (69) + wave (8): chain both into one image.
+699,shoe puppy,shoe (6) + puppy (99): chain both into one image.
+700,kisses,K-S-S: a wedding's worth of kisses.
+701,cassette,
+702,casino,
+703,case Ma,case (70) + Ma (3): chain both into one image.
+704,case ray,case (70) + ray (4): chain both into one image.
+705,gazelle,
+706,egg sushi,egg (7) + sushi (06): chain both into one image.
+707,kiosk,
+708,case ivy,case (70) + ivy (8): chain both into one image.
+709,gazebo,
+710,cats,
+711,cadet,
+712,kitten,
+713,cat ham,cat (71) + ham (3): chain both into one image.
+714,guitar,
+715,kettle,
+716,cottage,
+717,catwalk,
+718,goat hoof,goat (71) + hoof (8): chain both into one image.
+719,cat pie,cat (71) + pie (9): chain both into one image.
+720,cans,
+721,candy,
+722,cannon,
+723,can ham,can (72) + ham (3): chain both into one image.
+724,canary,
+725,kennel,
+726,can shoe,can (72) + shoe (6): chain both into one image.
+727,eggnog,
+728,convoy,
+729,canopy,
+730,combs,
+731,comet,
+732,egg man,egg (7) + man (32): chain both into one image.
+733,comb Ma,comb (73) + Ma (3): chain both into one image.
+734,camera,
+735,camel,
+736,gum shoe,gum (73) + shoe (6): chain both into one image.
+737,comic,
+738,comb ivy,comb (73) + ivy (8): chain both into one image.
+739,camp,
+740,cars,
+741,carrot,
+742,crown,
+743,cream,
+744,grey hair,grey (74) + hair (4): chain both into one image.
+745,gorilla,
+746,garage,
+747,cork,
+748,gravy,
+749,crab,
+750,coals,
+751,cloud,
+752,clown,
+753,clam,
+754,collar,
+755,ukulele,
+756,collage,
+757,clock,
+758,glove,
+759,globe,
+760,cashews,
+761,gadget,
+762,kitchen,
+763,cash Ma,cash (76) + Ma (3): chain both into one image.
+764,cashier,
+765,eggshell,
+766,cash shoe,cash (76) + shoe (6): chain both into one image.
+767,cage key,cage (76) + key (7): chain both into one image.
+768,cash ivy,cash (76) + ivy (8): chain both into one image.
+769,ketchup,
+770,cakes,
+771,cockatoo,
+772,cocoon,
+773,cake Ma,cake (77) + Ma (3): chain both into one image.
+774,cougar,
+775,gaggle,
+776,cake shoe,cake (77) + shoe (6): chain both into one image.
+777,cuckoo key,K-K-K: a cuckoo clock key wound three times.
+778,cake ivy,cake (77) + ivy (8): chain both into one image.
+779,egg cup,egg (7) + cup (79): chain both into one image.
+780,caves,
+781,cave tea,cave (78) + tea (1): chain both into one image.
+782,coffin,
+783,egg foam,egg (7) + foam (83): chain both into one image.
+784,caviar,
+785,cave law,cave (78) + law (5): chain both into one image.
+786,cave shoe,cave (78) + shoe (6): chain both into one image.
+787,cave key,cave (78) + key (7): chain both into one image.
+788,cave ivy,cave (78) + ivy (8): chain both into one image.
+789,cave pie,cave (78) + pie (9): chain both into one image.
+790,capes,
+791,keypad,
+792,cabin,
+793,cap Ma,cap (79) + Ma (3): chain both into one image.
+794,cobra,
+795,cable,
+796,cabbage,
+797,cup hook,cup (79) + hook (7): chain both into one image.
+798,cap ivy,cap (79) + ivy (8): chain both into one image.
+799,cobweb,
+800,fuses,F-S-S: eight hundred old fuses.
+801,faucet,
+802,face Noah,face (80) + Noah (2): chain both into one image.
+803,face Ma,face (80) + Ma (3): chain both into one image.
+804,visor,
+805,fossil,
+806,face shoe,face (80) + shoe (6): chain both into one image.
+807,face key,face (80) + key (7): chain both into one image.
+808,face ivy,face (80) + ivy (8): chain both into one image.
+809,face pie,face (80) + pie (9): chain both into one image.
+810,fats,
+811,fat tea,fat (81) + tea (1): chain both into one image.
+812,futon,
+813,fat Ma,fat (81) + Ma (3): chain both into one image.
+814,feather,
+815,fiddle,
+816,foot shoe,foot (81) + shoe (6): chain both into one image.
+817,fat cow,fat (81) + cow (7): chain both into one image.
+818,fat ivy,fat (81) + ivy (8): chain both into one image.
+819,fat pie,fat (81) + pie (9): chain both into one image.
+820,fans,
+821,fondue,
+822,fan Noah,fan (82) + Noah (2): chain both into one image.
+823,venom,
+824,phone ear,phone (82) + ear (4): chain both into one image.
+825,funnel,
+826,finch,
+827,fan key,fan (82) + key (7): chain both into one image.
+828,fan ivy,fan (82) + ivy (8): chain both into one image.
+829,oven pie,oven (82) + pie (9): chain both into one image.
+830,foams,
+831,foam head,foam (83) + head (1): chain both into one image.
+832,foam Noah,foam (83) + Noah (2): chain both into one image.
+833,foam Ma,foam (83) + Ma (3): chain both into one image.
+834,femur,
+835,family,
+836,foam shoe,foam (83) + shoe (6): chain both into one image.
+837,foam key,foam (83) + key (7): chain both into one image.
+838,foam ivy,foam (83) + ivy (8): chain both into one image.
+839,foam pie,foam (83) + pie (9): chain both into one image.
+840,fires,
+841,fruit,
+842,fern,
+843,farm,
+844,fryer,
+845,firewall,
+846,fridge,
+847,frog,
+848,fire ivy,fire (84) + ivy (8): chain both into one image.
+849,fire pie,fire (84) + pie (9): chain both into one image.
+850,files,
+851,flute,
+852,violin,
+853,flame,
+854,flower,
+855,file law,file (85) + law (5): chain both into one image.
+856,village,
+857,flag,
+858,valve,
+859,flap,
+860,fishes,
+861,fish head,fish (86) + head (1): chain both into one image.
+862,fish Noah,fish (86) + Noah (2): chain both into one image.
+863,fish Ma,fish (86) + Ma (3): chain both into one image.
+864,fish ray,fish (86) + ray (4): chain both into one image.
+865,fish oil,fish (86) + oil (5): chain both into one image.
+866,fish shoe,fish (86) + shoe (6): chain both into one image.
+867,fish hook,fish (86) + hook (7): chain both into one image.
+868,fish ivy,fish (86) + ivy (8): chain both into one image.
+869,fish pie,fish (86) + pie (9): chain both into one image.
+870,fogs,
+871,avocado,
+872,wave canoe,wave (8) + canoe (72): chain both into one image.
+873,vacuum,
+874,fog ray,fog (87) + ray (4): chain both into one image.
+875,vehicle,
+876,fog shoe,fog (87) + shoe (6): chain both into one image.
+877,fog key,fog (87) + key (7): chain both into one image.
+878,fog ivy,fog (87) + ivy (8): chain both into one image.
+879,fog pie,fog (87) + pie (9): chain both into one image.
+880,fifes,
+881,fife tea,fife (88) + tea (1): chain both into one image.
+882,wave fin,wave (8) + fin (82): chain both into one image.
+883,wave foam,wave (8) + foam (83): chain both into one image.
+884,fever,
+885,fife law,fife (88) + law (5): chain both into one image.
+886,wave fish,wave (8) + fish (86): chain both into one image.
+887,fife key,fife (88) + key (7): chain both into one image.
+888,vivify,"V-V-F: to vivify is to fire with life, three times over."
+889,fife pie,fife (88) + pie (9): chain both into one image.
+890,fobs,
+891,wave boat,wave (8) + boat (91): chain both into one image.
+892,fob Noah,fob (89) + Noah (2): chain both into one image.
+893,fob Ma,fob (89) + Ma (3): chain both into one image.
+894,viper,
+895,wave pool,wave (8) + pool (95): chain both into one image.
+896,wave beach,wave (8) + beach (96): chain both into one image.
+897,fob key,fob (89) + key (7): chain both into one image.
+898,fob ivy,fob (89) + ivy (8): chain both into one image.
+899,fob pie,fob (89) + pie (9): chain both into one image.
+900,buses,P-S-S: nine hundred buses in a depot.
+901,pasta,
+902,bison,
+903,possum,
+904,buzzer,
+905,puzzle,
+906,pose shoe,pose (90) + shoe (6): chain both into one image.
+907,bazooka,
+908,pose ivy,pose (90) + ivy (8): chain both into one image.
+909,bus boy,bus (90) + boy (9): chain both into one image.
+910,pots,
+911,potato,P-T-T: a hot potato is an emergency in your hands.
+912,button,
+913,podium,
+914,butter,
+915,bottle,
+916,boat shoe,boat (91) + shoe (6): chain both into one image.
+917,boutique,
+918,boat wave,boat (91) + wave (8): chain both into one image.
+919,potpie,
+920,pens,
+921,peanut,
+922,banana,
+923,pen Ma,pen (92) + Ma (3): chain both into one image.
+924,banner,
+925,panel,
+926,banjo,
+927,piano key,piano (92) + key (7): chain both into one image.
+928,pen ivy,pen (92) + ivy (8): chain both into one image.
+929,pen pie,pen (92) + pie (9): chain both into one image.
+930,poems,
+931,behemoth,
+932,bohemian,
+933,poem Ma,poem (93) + Ma (3): chain both into one image.
+934,bomber,
+935,pommel,
+936,poem shoe,poem (93) + shoe (6): chain both into one image.
+937,poem key,poem (93) + key (7): chain both into one image.
+938,poem ivy,poem (93) + ivy (8): chain both into one image.
+939,bamboo,
+940,piers,
+941,bird,
+942,barn,
+943,broom,
+944,prairie,
+945,barrel,
+946,bridge,
+947,brick,
+948,pier ivy,pier (94) + ivy (8): chain both into one image.
+949,probe,
+950,pails,
+951,belt,
+952,balloon,
+953,plum,
+954,pillar,
+955,blowhole,
+956,bleach,
+957,plug,
+958,pilaf,
+959,bulb,
+960,peaches,
+961,peach tea,peach (96) + tea (1): chain both into one image.
+962,pigeon,
+963,pajama,
+964,badger,
+965,bushel,
+966,beach shoe,beach (96) + shoe (6): chain both into one image.
+967,paycheck,
+968,beach wave,beach (96) + wave (8): chain both into one image.
+969,bishop,
+970,pucks,
+971,bucket,
+972,bacon,
+973,puck Ma,puck (97) + Ma (3): chain both into one image.
+974,baker,
+975,pickle,
+976,package,
+977,peacock,
+978,pig hoof,pig (97) + hoof (8): chain both into one image.
+979,hubcap,
+980,pie face,pie (9) + face (80): chain both into one image.
+981,puff tea,puff (98) + tea (1): chain both into one image.
+982,pay phone,pay (9) + phone (82): chain both into one image.
+983,puff Ma,puff (98) + Ma (3): chain both into one image.
+984,beaver,
+985,buffalo,
+986,puff shoe,puff (98) + shoe (6): chain both into one image.
+987,puff key,puff (98) + key (7): chain both into one image.
+988,puff ivy,puff (98) + ivy (8): chain both into one image.
+989,puff pie,puff (98) + pie (9): chain both into one image.
+990,pipes,
+991,puppet,
+992,baboon,
+993,pipe Ma,pipe (99) + Ma (3): chain both into one image.
+994,pepper,
+995,pebble,
+996,baby shoe,baby (99) + shoe (6): chain both into one image.
+997,pipe key,pipe (99) + key (7): chain both into one image.
+998,pipe ivy,pipe (99) + ivy (8): chain both into one image.
+999,papa pie,"P-P-P: papa bakes a pie, triple-nine tradition."
